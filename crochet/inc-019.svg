@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 한길긴뜨기_5코_늘려뜨기_코_아래에서
+    - KR_NAME_ABBR     : 한길5늘려_아래
+    - JA_NAME_FULL     : 長編み5目編み入れる_束に
+    - JA_NAME_ABBR     : 長5目入れ_束
+    - EN_NAME_US_FULL  : double_crochet_5_stitch_increase_under_stitch
+    - EN_NAME_US_ABBR  : dc_5_st_inc_under
+    - EN_NAME_UK_FULL  : treble_crochet_5_stitch_increase_under_stitch
+    - EN_NAME_UK_ABBR  : tr_5_st_inc_under
+    - SYMBOL_SHAPE     : 5_perfect_balanced_rotated_basic_dc_bars_with_separated_bottoms
+    - SYMBOL_STYLE     : dc_5_branched_under_isolated
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:3
+    - STITCH_HEIGHT    : 3
+    - STITCH_COUNT     : 5
+    - CATEGORY          : inc
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>한길긴뜨기 5코 늘려뜨기(코 아래에서)</dc:title>
+        <dc:description>보그 코바늘 표준 기호. 하단 분리형 5코 부채꼴의 완벽한 밸런스를 유지한 상태에서, viewBox 중앙(32,32)을 기준으로 기존 크기에서 10%를 추가 축소(최종 scale 0.81)하여 사방 여백을 여유롭고 안전하게 확보한 최종 형태.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <!-- 
+    [추가 10% 축소 및 센터 정렬 변환] 
+    - 중심점(32, 32) 기준 scale(0.9)에서 추가 10% 축소를 반영하여 scale(0.81)로 적용
+    - 상하좌우 여백이 더욱 넓어져 외곽 잘림 현상을 완전히 예방합니다.
+  -->
+  <g transform="translate(32, 32) scale(0.81) translate(-32, -32) translate(2, 4)" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    
+    <!-- 1번 기둥: 왼쪽 끝 (바닥 X축 22) -->
+    <g transform="rotate(-32, 22, 54)">
+      <path d="M 22 16 L 22 54"/>
+      <path d="M 18 16 L 26 16"/>
+      <path d="M 18 27 L 26 31"/>
+    </g>
+
+    <!-- 2번 기둥: 왼쪽 안 (바닥 X축 27) -->
+    <g transform="rotate(-16, 27, 54)">
+      <path d="M 27 16 L 27 54"/>
+      <path d="M 23 16 L 31 16"/>
+      <path d="M 23 27 L 31 31"/>
+    </g>
+
+    <!-- 3번 기둥: 정중앙 수직 기둥 (X:32) -->
+    <g>
+      <path d="M 32 16 L 32 54"/>
+      <path d="M 28 16 L 36 16"/>
+      <path d="M 28 27 L 36 31"/>
+    </g>
+
+    <!-- 4번 기둥: 오른쪽 안 (바닥 X축 37) -->
+    <g transform="rotate(16, 37, 54)">
+      <path d="M 37 16 L 37 54"/>
+      <path d="M 33 16 L 41 16"/>
+      <path d="M 33 27 L 41 31"/>
+    </g>
+
+    <!-- 5번 기둥: 오른쪽 끝 (바닥 X축 42) -->
+    <g transform="rotate(32, 42, 54)">
+      <path d="M 42 16 L 42 54"/>
+      <path d="M 38 16 L 46 16"/>
+      <path d="M 38 27 L 46 31"/>
+    </g>
+
+  </g>
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 짧은뜨기_2코_늘려뜨기_중간_사슬1코
+    - KR_NAME_ABBR     : 짧은2늘려사슬_1
+    - JA_NAME_FULL     : 細編み2目編み入れる_中鎖1目
+    - JA_NAME_ABBR     : 細2増し_鎖1
+    - EN_NAME_US_FULL  : single_crochet_increase_with_intermediate_chain_1
+    - EN_NAME_US_ABBR  : sc_inc_ch_1
+    - EN_NAME_UK_FULL  : double_crochet_increase_with_intermediate_chain_1
+    - EN_NAME_UK_ABBR  : dc_inc_ch_1
+    - SYMBOL_SHAPE     : v_shape
+    - SYMBOL_STYLE     : oval_contained_with_crosses
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : chain_center
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 1
+    - STITCH_COUNT     : 2
+    - CATEGORY         : inc
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>짧은뜨기 2코 늘려뜨기 중간 사슬1코</dc:title>
+        <dc:description>보그 코바늘 표준 기호. 중앙 사슬 크기를 줄여 좌우 수평 표식과의 유격을 확보한 최종본.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <!-- 사슬 크기를 축소하여 양쪽 수평선과의 완벽한 유격을 확보한 배치 -->
+  <g fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <!-- 외곽 V자 기둥선 -->
+    <path d="M 12 20 L 32 50 L 52 20"/>
+    
+    <!-- 왼쪽 사선의 수평 교차선 -->
+    <path d="M 10 26 L 22 26"/>
+    
+    <!-- 오른쪽 사선의 수평 교차선 -->
+    <path d="M 42 26 L 54 26"/>
+    
+    <!-- 내부 가로형 사슬 기호 (가로 rx를 6.5에서 4.5로 콤팩트하게 줄여 좌우 여백 확보) -->
+    <ellipse cx="32" cy="28" rx="4.5" ry="3"/>
+  </g>
+</svg>

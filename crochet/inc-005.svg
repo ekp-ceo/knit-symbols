@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 긴뜨기_2코_늘려뜨기_코_아래에서
+    - KR_NAME_ABBR     : 긴2늘려_아래
+    - JA_NAME_FULL     : 中長編み2目編み入れる_束に
+    - JA_NAME_ABBR     : 中長2増し_束
+    - EN_NAME_US_FULL  : half_double_crochet_increase_into_space
+    - EN_NAME_US_ABBR  : hdc_inc_sp
+    - EN_NAME_UK_FULL  : half_treble_crochet_increase_into_space
+    - EN_NAME_UK_ABBR  : htr_inc_sp
+    - SYMBOL_SHAPE     : v_separated_base
+    - SYMBOL_STYLE     : hdc_branched_space_isolated
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : space_entry
+    - STITCH_RATIO     : 1:1.5
+    - STITCH_HEIGHT    : 2
+    - STITCH_COUNT     : 2
+    - CATEGORY         : inc
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>긴뜨기 2코 늘려뜨기_코 아래에서</dc:title>
+        <dc:description>보그 코바늘 표준 기호. 상단 T바 분리는 물론 하단부도 한 점으로 모이지 않고 독립되어 똑 떨어져 벌어지는 형태.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <g fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 20 18 L 26 52"/>
+    <path d="M 44 18 L 38 52"/>
+    <path d="M 13 18 L 27 18"/>
+    <path d="M 37 18 L 51 18"/>
+  </g>
+</svg>

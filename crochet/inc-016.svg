@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 한길긴뜨기_4코_늘려뜨기_한_코에서
+    - KR_NAME_ABBR     : 한길4늘려_코
+    - JA_NAME_FULL     : 長編み4目編み入れる_目に
+    - JA_NAME_ABBR     : 長4増し_目
+    - EN_NAME_US_FULL  : double_crochet_4_stitch_increase_into_stitch
+    - EN_NAME_US_ABBR  : dc_4_st_inc
+    - EN_NAME_UK_FULL  : treble_crochet_4_stitch_increase_into_stitch
+    - EN_NAME_UK_ABBR  : tr_4_st_inc
+    - SYMBOL_SHAPE     : 4_branched_v_shape_with_perfectly_centered_slashes
+    - SYMBOL_STYLE     : dc_4_branched_isolated
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:3
+    - STITCH_HEIGHT    : 3
+    - STITCH_COUNT     : 4
+    - CATEGORY          : inc
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>한길긴뜨기 4코 늘려뜨기(한 코에서)</dc:title>
+        <dc:description>보그 코바늘 표준 기호. 하단 한 점(32, 54)에서 위로 4개의 한길긴뜨기 기둥이 균등한 부채꼴 형태로 뻗어나가며, 사선 빗금이 전체 높이의 '중간에서 아주 조금 더 위' 지점에 좌우 완벽한 대칭으로 정중앙을 관통하는 형태.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <g fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <!-- 하단 한 점(32, 54)에서 부채꼴로 뻗어나가는 4개의 기둥선 -->
+    <path d="M 14 16 L 32 54"/>
+    <path d="M 26 16 L 32 54"/>
+    <path d="M 38 16 L 32 54"/>
+    <path d="M 50 16 L 32 54"/>
+    
+    <!-- 상단 수평 바 -->
+    <path d="M 10 16 L 18 16"/>
+    <path d="M 22 16 L 30 16"/>
+    <path d="M 34 16 L 42 16"/>
+    <path d="M 46 16 L 54 16"/>
+    
+    <!-- [좌측 및 우측 기둥 센터 최종 교정 완료] Y=27 지점 기둥 중심 관통 -->
+    <!-- 1번 기둥: 정확한 센터 X=19.2 -->
+    <path d="M 16 25 L 22.5 29"/>
+    
+    <!-- 2번 기둥: 정확한 센터 X=27.8 -->
+    <path d="M 24.5 25 L 31 29"/>
+    
+    <!-- 3번 기둥: 정확한 센터 X=36.2 -->
+    <path d="M 33 25 L 39.5 29"/>
+    
+    <!-- 4번 기둥: 정확한 센터 X=44.8 -->
+    <path d="M 41.5 25 L 48 29"/>
+  </g>
+</svg>

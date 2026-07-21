@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 짧은뜨기_2코_늘려뜨기
+    - KR_NAME_ABBR     : 짧은2늘려
+    - JA_NAME_FULL     : 細編み2目編み入れる
+    - JA_NAME_ABBR     : 細2増し
+    - EN_NAME_US_FULL  : single_crochet_increase
+    - EN_NAME_US_ABBR  : sc_inc
+    - EN_NAME_UK_FULL  : double_crochet_increase
+    - EN_NAME_UK_ABBR  : dc_inc
+    - SYMBOL_SHAPE     : v_shape
+    - SYMBOL_STYLE     : cross_contained
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 1
+    - STITCH_COUNT     : 2
+    - CATEGORY         : inc
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>짧은뜨기 2코 늘려뜨기</dc:title>
+        <dc:description>보그 코바늘 표준 짧은뜨기 2코 늘려뜨기 기호. V자 형태의 내부 상단에 짧은뜨기(X) 기호가 결합된 형태.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <!-- 하단 꼭짓점(32, 50)에서 뻗어나가는 V자 서체와 상단 중앙(32, 22)에 위치한 짧은뜨기 기호 -->
+  <g fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <!-- V자 메인 줄기 -->
+    <path d="M 14 20 L 32 50 L 50 20"/>
+    
+    <!-- 내부 상단 정중앙 짧은뜨기(X) 기호 -->
+    <path d="M 27 17 L 37 27"/>
+    <path d="M 37 17 L 27 27"/>
+  </g>
+</svg>

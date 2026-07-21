@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 긴뜨기_3코_늘려뜨기_한_코에서
+    - KR_NAME_ABBR     : 긴3늘려_코
+    - JA_NAME_FULL     : 中長編み3目編み入れる_目に
+    - JA_NAME_ABBR     : 中長3増し_目
+    - EN_NAME_US_FULL  : half_double_crochet_3_stitch_increase_into_stitch
+    - EN_NAME_US_ABBR  : hdc_3_st_inc
+    - EN_NAME_UK_FULL  : half_treble_crochet_3_stitch_increase_into_stitch
+    - EN_NAME_UK_ABBR  : htr_3_st_inc
+    - SYMBOL_SHAPE     : w_with_separated_t_bars
+    - SYMBOL_STYLE     : hdc_branched_isolated
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:1.5
+    - STITCH_HEIGHT    : 2
+    - STITCH_COUNT     : 3
+    - CATEGORY         : inc
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>긴뜨기 3코 늘려뜨기_한 코에서</dc:title>
+        <dc:description>보그 코바늘 표준 기호. 하단 한 점으로 뾰족하게 모이는 세 갈래 기둥과 상단에 완전히 분리된 3개의 수평 바 형태.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <g fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 16 18 L 32 52 L 48 18"/>
+    <path d="M 32 52 L 32 18"/>
+    <path d="M 10 18 L 22 18"/>
+    <path d="M 26 18 L 38 18"/>
+    <path d="M 42 18 L 54 18"/>
+  </g>
+</svg>

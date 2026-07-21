@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 한길긴뜨기_4코_늘려뜨기_한_코에서_중간_사슬_1코
+    - KR_NAME_ABBR     : 한길4늘려_코_사슬1
+    - JA_NAME_FULL     : 長編み4目編み入れる_目に_中間に鎖1目
+    - JA_NAME_ABBR     : 長4目入れ_鎖
+    - EN_NAME_US_FULL  : double_crochet_4_stitch_increase_into_stitch with_1_intermediate_ch
+    - EN_NAME_US_ABBR  : dc_4_st_inc_1_ch
+    - EN_NAME_UK_FULL  : treble_crochet_4_stitch_increase_into_stitch_with_1_intermediate_ch
+    - EN_NAME_UK_ABBR  : tr_4_st_inc_1_ch
+    - SYMBOL_SHAPE     : 4_rotated_basic_dc_bars_with_lowered_oval_chain
+    - SYMBOL_STYLE     : dc_4_branched_isolated_with_chain
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : chain
+    - STITCH_RATIO     : 1:3
+    - STITCH_HEIGHT    : 3
+    - STITCH_COUNT     : 4
+    - CATEGORY          : inc
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>한길긴뜨기 4코 늘려뜨기(한 코에서, 중간 사슬 1코)</dc:title>
+        <dc:description>보그 코바늘 표준 기호. 바깥 기둥(42도)은 고정하고 안쪽 기둥을 21도로 배치한 상태에서, 중앙 사슬코의 크기를 키우고 높이를 Y=17.5로 살짝 올려 양 안쪽 기둥 수평 바에 확실하게 물리도록 조정한 최종 형태.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <g fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    
+    <!-- [개별 회전 제어] 바깥쪽은 고정하고 안쪽 기둥만 사슬코에 맞춰 벌림 -->
+    
+    <!-- 1번 기둥: 왼쪽으로 42도 회전 -->
+    <g transform="rotate(-42, 32, 54)">
+      <path d="M 32 16 L 32 54"/>
+      <path d="M 27 16 L 37 16"/>
+      <path d="M 28 27 L 36 31"/>
+    </g>
+
+    <!-- 2번 기둥: 왼쪽으로 21도 회전 -->
+    <g transform="rotate(-21, 32, 54)">
+      <path d="M 32 16 L 32 54"/>
+      <path d="M 27 16 L 37 16"/>
+      <path d="M 28 27 L 36 31"/>
+    </g>
+
+    <!-- 3번 기둥: 오른쪽으로 21도 회전 -->
+    <g transform="rotate(21, 32, 54)">
+      <path d="M 32 16 L 32 54"/>
+      <path d="M 27 16 L 37 16"/>
+      <path d="M 28 27 L 36 31"/>
+    </g>
+
+    <!-- 4번 기둥: 오른쪽으로 42도 회전 -->
+    <g transform="rotate(42, 32, 54)">
+      <path d="M 32 16 L 32 54"/>
+      <path d="M 27 16 L 37 16"/>
+      <path d="M 28 27 L 36 31"/>
+    </g>
+
+    <!-- [크기 확대 및 상향 조정] 사슬코를 키우고 기둥 수평 바 높이에 딱 걸치도록 위치 변경 (cy:17.5, rx:5.5, ry:3.5) -->
+    <ellipse cx="32" cy="17.5" rx="5.5" ry="3.5"/>
+
+  </g>
+</svg>

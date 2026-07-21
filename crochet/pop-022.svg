@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 긴뜨기_3코_팝콘뜨기_한_코에서
+    - KR_NAME_ABBR     : 긴3팝콘
+    - JA_NAME_FULL     : 中長編み3目のポップコーン編み
+    - JA_NAME_ABBR     : 中長3目ポップコーン
+    - EN_NAME_US_FULL  : half_double_crochet_3_stitch_popcorn
+    - EN_NAME_US_ABBR  : hdc_3_st_popcorn
+    - EN_NAME_UK_FULL  : half_treble_crochet_3_stitch_popcorn
+    - EN_NAME_UK_ABBR  : htr_3_st_popcorn
+    - SYMBOL_SHAPE     : flat_oval_top_ring_with_outer_shell_enclosing_1_center_vertical_bar
+    - SYMBOL_STYLE     : hdc_3_popcorn_isolated
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : popcorn_top_ring
+    - STITCH_RATIO     : 1:2
+    - STITCH_HEIGHT    : 2
+    - STITCH_COUNT     : 3
+    - CATEGORY          : pop
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>긴뜨기 3코 팝콘뜨기 (한 코에서)</dc:title>
+        <dc:description>보그 코바늘 표준 긴뜨기 3코 팝콘뜨기 (한 코에서) 기호. 중앙 수직 기둥의 시작점을 Y=25로 미세 하강시켜 상단 타원 링과의 경계를 깔끔하게 정리한 그래픽 최적화 완본.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <g fill="none" stroke="#000000" stroke-width="3.8" stroke-linecap="round" stroke-linejoin="round">
+    <!-- 상단 가로형 타원 링 (머리 고리) -->
+    <path d="M 32 16 C 40 16, 43 19, 42 22 C 40 25, 24 25, 22 22 C 21 19, 24 16, 32 16 Z" />
+
+    <!-- 1번 가닥: 팝콘 외곽 왼쪽 라인 (타원 왼쪽 끝에서 하단 중심 32,54로) -->
+    <path d="M 22 22 C 12 30, 12 48, 32 54" />
+
+    <!-- 2번 가닥: 정중앙 수직 기둥 (타원을 침범하지 않도록 시작점을 Y=25로 조정) -->
+    <path d="M 32 25 L 32 54" />
+
+    <!-- 3번 가닥: 팝콘 외곽 오른쪽 라인 (타원 오른쪽 끝에서 하단 중심 32,54로) -->
+    <path d="M 42 22 C 52 30, 52 48, 32 54" />
+  </g>
+</svg>

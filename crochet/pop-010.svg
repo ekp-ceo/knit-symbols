@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 한길_긴뜨기_4코_구슬뜨기_한_코에서
+    - KR_NAME_ABBR     : 한길4구슬
+    - JA_NAME_FULL     : 長編み4目の玉編み
+    - JA_NAME_ABBR     : 長4目玉編み
+    - EN_NAME_US_FULL  : double_crochet_4_stitch_bobble
+    - EN_NAME_US_ABBR  : dc_4_st_bobble
+    - EN_NAME_UK_FULL  : treble_crochet_4_stitch_bobble
+    - EN_NAME_UK_ABBR  : tr_4_st_bobble
+    - SYMBOL_SHAPE     : 4_branched_oval_almond_shape_with_top_bar_and_slashes
+    - SYMBOL_STYLE     : dc_4_bobble_isolated
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:3
+    - STITCH_HEIGHT    : 3
+    - STITCH_COUNT     : 4
+    - CATEGORY          : pop
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>한길 긴뜨기 4코 구슬뜨기 (한 코에서)</dc:title>
+        <dc:description>보그 코바늘 표준 한길 긴뜨기 4코 구슬뜨기 (한 코에서) 기호. 구슬뜨기(pop) 카테고리의 열 번째 도안. 안쪽 왼쪽의 2번 기둥 빗금을 위로 1px 수직 이동하여 전체적인 빗금 라인의 시각적 밸런스를 최종 최적화한 완본.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <g transform="translate(32, 32) scale(1.26) translate(-32, -32) translate(0, 2)" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <!-- 상단 수평 바 -->
+    <path d="M 22 20 L 42 20"/>
+    
+    <!-- 1번 기둥 (왼쪽 외곽 곡선 및 빗금) -->
+    <g>
+      <path d="M 32 20 C 11 28, 11 44, 32 52"/>
+      <path d="M 13.5 35.1 L 18.1 37.4"/>
+    </g>
+    
+    <!-- 2번 기둥 (왼쪽 내측 곡선 및 빗금 - 위로 1px 이동) -->
+    <g>
+      <path d="M 32 20 C 21 28, 21 44, 32 52"/>
+      <!-- Y축을 1px 위로 올림 (36.1/38.4 -> 35.1/37.4) -->
+      <path d="M 21.5 35.1 L 26.1 37.4"/>
+    </g>
+    
+    <!-- 3번 기둥 (오른쪽 내측 곡선 및 빗금) -->
+    <g>
+      <path d="M 32 20 C 43 28, 43 44, 32 52"/>
+      <path d="M 37.9 36.1 L 42.5 38.4"/>
+    </g>
+    
+    <!-- 4번 기둥 (오른쪽 외곽 곡선 및 빗금) -->
+    <g>
+      <path d="M 32 20 C 53 28, 53 44, 32 52"/>
+      <path d="M 45.9 35.1 L 50.5 37.4"/>
+    </g>
+  </g>
+</svg>

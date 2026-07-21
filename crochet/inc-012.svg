@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 한길긴뜨기_2코_늘려뜨기_한_코에서_중간_사슬_2코
+    - KR_NAME_ABBR     : 한길2늘려_코_사슬2
+    - JA_NAME_FULL     : 長編み2目編み入れる_目に_鎖2目
+    - JA_NAME_ABBR     : 長2増し_目_鎖2
+    - EN_NAME_US_FULL  : double_crochet_increase_into_stitch_with_intermediate_chain_2
+    - EN_NAME_US_ABBR  : dc_inc_ch2
+    - EN_NAME_UK_FULL  : treble_crochet_increase_into_stitch_with_intermediate_chain_2
+    - EN_NAME_UK_ABBR  : tr_inc_ch2
+    - SYMBOL_SHAPE     : v_with_separated_t_bars_slashes_and_double_chain
+    - SYMBOL_STYLE     : dc_branched_isolated_double_chain
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:2
+    - STITCH_HEIGHT    : 3
+    - STITCH_COUNT     : 2
+    - CATEGORY         : inc
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>한길긴뜨기 2코 늘려뜨기(한 코에서, 중간 사슬 2코)</dc:title>
+        <dc:description>보그 코바늘 표준 기호. 하단 한 점으로 모이는 V자형 한길긴뜨기 기둥 사이에 사슬 2코가 추가되며, 사슬 고리 중앙이 날렵하게 겹쳐 연결되고 양끝은 대각선 아래 기둥 탑에 감기듯 연결된 형태.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <g fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <!-- 하단 한 점(32, 54)으로 모이는 V자 기둥선 -->
+    <path d="M 18 20 L 32 54 L 46 20"/>
+    
+    <!-- 왼쪽 기둥의 독립된 상단 수평 바 -->
+    <path d="M 11 20 L 25 20"/>
+    
+    <!-- 오른쪽 기둥의 독립된 상단 수평 바 -->
+    <path d="M 39 20 L 53 20"/>
+    
+    <!-- 중간 사슬 2코 (중앙 중첩 부위를 얇게 빼기 위해 간격을 미세하게 벌리고 각도를 14도로 추가 조정) -->
+    <!-- 왼쪽 사슬: 중심 27.0, 각도 -14도 -->
+    <ellipse cx="27" cy="17" rx="5.5" ry="3" transform="rotate(-14, 27, 17)" stroke="#000000" stroke-width="3" fill="none"/>
+    <!-- 오른쪽 사슬: 중심 37.0, 각도 14도 -->
+    <ellipse cx="37" cy="17" rx="5.5" ry="3" transform="rotate(14, 37, 17)" stroke="#000000" stroke-width="3" fill="none"/>
+    
+    <!-- 왼쪽 기둥 중심 사선 빗금 -->
+    <path d="M 21 34 L 28 38"/>
+    
+    <!-- 오른쪽 기둥 중심 사선 빗금 -->
+    <path d="M 36 38 L 43 34"/>
+  </g>
+</svg>

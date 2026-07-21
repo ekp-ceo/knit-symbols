@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 두길_긴뜨기_5코_구슬뜨기_한_코에서
+    - KR_NAME_ABBR     : 두길5구슬
+    - JA_NAME_FULL     : 長々編み5目の玉編み
+    - JA_NAME_ABBR     : 長々5目玉編み
+    - EN_NAME_US_FULL  : triple_crochet_5_stitch_bobble
+    - EN_NAME_US_ABBR  : tr_5_st_bobble
+    - EN_NAME_UK_FULL  : double_treble_crochet_5_stitch_bobble
+    - EN_NAME_UK_ABBR  : dtr_5_st_bobble
+    - SYMBOL_SHAPE     : 5_branched_oval_almond_shape_with_center_bar_top_bar_and_double_slashes
+    - SYMBOL_STYLE     : tr_5_bobble_isolated
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:4
+    - STITCH_HEIGHT    : 4
+    - STITCH_COUNT     : 5
+    - CATEGORY          : pop
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>두길 긴뜨기 5코 구슬뜨기 (한 코에서)</dc:title>
+        <dc:description>보그 코바늘 표준 두길 긴뜨기 5코 구슬뜨기 (한 코에서) 기호. 구슬뜨기(pop) 카테고리의 열여덟 번째 도안. 내측 곡선 기둥인 2번과 4번의 더블 빗금들을 바깥 방향으로 0.5px 추가 수평 이동하여 기둥 중심부와 완벽하게 일치시킨 정밀 마감 완본.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <g transform="translate(32, 32) scale(1.26) translate(-32, -32) translate(0, 2)" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <!-- 상단 수평 바 -->
+    <path d="M 16 20 L 48 20"/>
+    
+    <!-- 1번 기둥 (최외곽 왼쪽 곡선 및 더블 빗금) -->
+    <g>
+      <path d="M 32 20 C 8 28, 8 44, 32 52"/>
+      <path d="M 11.5 32.1 L 16.1 34.4"/>
+      <path d="M 12.5 39.1 L 17.1 41.4"/>
+    </g>
+    
+    <!-- 2번 기둥 (내측 왼쪽 곡선 및 더블 빗금 - 바깥으로 0.5px 더 이동) -->
+    <g>
+      <path d="M 32 20 C 19 28, 19 44, 32 52"/>
+      <!-- X축 좌측으로 0.5px 더 이동 (21.0/25.6 -> 20.5/25.1) -->
+      <path d="M 20.5 32.1 L 25.1 34.4"/>
+      <!-- X축 좌측으로 0.5px 더 이동 (21.0/25.6 -> 20.5/25.1) -->
+      <path d="M 20.5 38.1 L 25.1 40.4"/>
+    </g>
+    
+    <!-- 3번 기둥 (정중앙 수직 직선 다리 및 더블 빗금) -->
+    <g>
+      <path d="M 32 20 L 32 52"/>
+      <path d="M 29.7 34.3 L 34.3 36.9"/>
+      <path d="M 29.7 39.3 L 34.3 41.9"/>
+    </g>
+    
+    <!-- 4번 기둥 (내측 오른쪽 곡선 및 더블 빗금 - 바깥으로 0.5px 더 이동) -->
+    <g>
+      <path d="M 32 20 C 45 28, 45 44, 32 52"/>
+      <!-- X축 우측으로 0.5px 더 이동 (38.4/43.0 -> 38.9/43.5) -->
+      <path d="M 38.9 32.1 L 43.5 34.4"/>
+      <!-- X축 우측으로 0.5px 더 이동 (38.4/43.0 -> 38.9/43.5) -->
+      <path d="M 38.9 38.1 L 43.5 40.4"/>
+    </g>
+    
+    <!-- 5번 기둥 (최외곽 오른쪽 곡선 및 더블 빗금) -->
+    <g>
+      <path d="M 32 20 C 56 28, 56 44, 32 52"/>
+      <path d="M 47.9 32.1 L 52.5 34.4"/>
+      <path d="M 46.9 38.1 L 51.5 40.4"/>
+    </g>
+  </g>
+</svg>

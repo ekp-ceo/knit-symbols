@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 두길긴뜨기_2코_늘려뜨기_한_코에서
+    - KR_NAME_ABBR     : 두길2늘려_코
+    - JA_NAME_FULL     : 長々編み2目編み入れる_目に
+    - JA_NAME_ABBR     : 長々1増し_目
+    - EN_NAME_US_FULL  : treble_crochet_2_stitch_increase_into_stitch
+    - EN_NAME_US_ABBR  : tr_2_st_inc
+    - EN_NAME_UK_FULL  : double_treble_crochet_2_stitch_increase_into_stitch
+    - EN_NAME_UK_ABBR  : dtr_2_st_inc
+    - SYMBOL_SHAPE     : 2_branched_v_shape_with_double_slashes
+    - SYMBOL_STYLE     : tr_2_branched_isolated
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:4
+    - STITCH_HEIGHT    : 4
+    - STITCH_COUNT     : 2
+    - CATEGORY          : inc
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>두길긴뜨기 2코 늘려뜨기(한 코에서)</dc:title>
+        <dc:description>보그 코바늘 표준 기호. 하단 한 점(32, 54)에서 위로 2개의 두길긴뜨기 기둥이 V자 형태로 뻗어나가며, 두 줄의 사선 빗금이 전체 높이의 '중간에서 조금 위' 지점에 정갈하게 위치한 형태.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <g fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <!-- 하단 한 점(32, 54)에서 뻗어나가는 2개의 부채꼴 기둥선 (V자 형태) -->
+    <path d="M 20 16 L 32 54"/>
+    <path d="M 44 16 L 32 54"/>
+    
+    <!-- 상단 수평 바 (-) 콤팩트한 사이즈 유지 -->
+    <path d="M 16 16 L 24 16"/>
+    <path d="M 40 16 L 48 16"/>
+    
+    <!-- 왼쪽 기둥 이중 사선 빗금 -->
+    <path d="M 20 27 L 27 31"/>
+    <path d="M 22 33 L 29 37"/>
+    
+    <!-- 오른쪽 기둥 이중 사선 빗금 -->
+    <path d="M 37 27 L 44 31"/>
+    <path d="M 35 33 L 42 37"/>
+  </g>
+</svg>
