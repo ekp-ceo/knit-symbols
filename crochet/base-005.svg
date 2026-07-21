@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 한길긴뜨기
+    - KR_NAME_ABBR     : 한길긴
+    - JA_NAME_FULL     : 長編み
+    - JA_NAME_ABBR     : 長
+    - EN_NAME_US_FULL  : double_crochet
+    - EN_NAME_US_ABBR  : dc
+    - EN_NAME_UK_FULL  : treble_crochet
+    - EN_NAME_UK_ABBR  : tr
+    - SYMBOL_SHAPE     : t_shape
+    - SYMBOL_STYLE     : 1_slant
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : center
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 3
+    - STITCH_COUNT     : 1
+    - CATEGORY         : base
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>한길긴뜨기</dc:title>
+        <dc:description>보그 코바늘 표준 한길긴뜨기 기호. T자 기둥 중앙에 사선이 1개 교차하는 형태.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <!-- 64x64 해상도에 맞춘 한길긴뜨기 그래픽 -->
+  <!-- 기둥(세로선) -->
+  <line x1="32" y1="14" x2="32" y2="50" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- 지붕(가로선) -->
+  <line x1="16" y1="14" x2="48" y2="14" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- 사선 1개 -->
+  <line x1="26" y1="36" x2="38" y2="28" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+</svg>

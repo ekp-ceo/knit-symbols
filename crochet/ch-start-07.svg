@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA] - 한길긴뜨기 3코 늘려뜨기 시작코 첫 번째 버전 - 사슬2
+    - FILE_NAME        : ch-start-07.svg
+    - KR_NAME_FULL     : 한길긴뜨기_3코_늘려뜨기_시작코_사슬2
+    - KR_NAME_ABBR     : 한길긴뜨기3코늘려_시작코_2ch
+    - JA_NAME_FULL     : 長編みの3目編み入れる_立ち上がり
+    - JA_NAME_ABBR     : 長3目入れる_立ち上がり
+    - EN_NAME_US_FULL  : double_crochet_3_stitch_increase_with_2_chain_start
+    - EN_NAME_US_ABBR  : dc_3inc_2ch_start
+    - SYMBOL_SHAPE     : w_fork_with_flat_bottom_slashed_and_2_aligned_chains
+    - SYMBOL_STYLE     : vogue_standard
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : flat_root_3_branch_asymmetric_slashed_slim_chain
+    - STITCH_RATIO     : 1:2
+    - STITCH_HEIGHT    : 4
+    - STITCH_COUNT     : 3
+    - CATEGORY          : chain_start_column
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>한길긴뜨기 3코 늘려뜨기_시작코 (사슬2)</dc:title>
+        <dc:description>보그 코바늘 표준 [사슬 포함 시작코(ch-start)] 카테고리의 7번 마스터 기호. 바닥 공통점에서 분기하는 3개의 기둥 중 좌측과 중앙 기둥에 한길긴뜨기 인증 사선 빗금을 각각 1줄씩 배치하고, 우측에는 2개의 정석 사슬코를 정렬한 완본.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <!-- 1. 한길긴뜨기 기둥 그룹 (기본 두께 4.5px, 바닥 공통점 32.0, 49.6에서 분기 및 각 기둥 빗금 추가) -->
+  <g fill="none" stroke="#000000" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- [좌측 한길긴뜨기] 머리 바, 경사 기둥 및 사선 빗금 -->
+    <path d="M 10.0 16.0 L 20.0 16.0" />
+    <path d="M 32.0 49.6 L 15.0 16.0" />
+    <path d="M 19.5 35.5 L 24.5 31.5" />
+
+    <!-- [중앙 수직 한길긴뜨기] 머리 바, 수직 기둥 및 사선 빗금 (수평 가로지름 핏 조율) -->
+    <path d="M 27.0 16.0 L 37.0 16.0" />
+    <path d="M 32.0 49.6 L 32.0 16.0" />
+    <path d="M 29.5 34.0 L 34.5 32.0" />
+  </g>
+
+  <!-- 2. 우측 시작 사슬코 기둥 세트 (35도 경사 유지 + 1, 3, 5번의 사슬 2개 마스터 좌표 계승) -->
+  <!-- 사슬 외곽선 3.5px, 내부 fill="#ffffff"로 구멍 개방 효과 극대화 -->
+  <g stroke="#000000" stroke-width="3.5" fill="#ffffff" stroke-linejoin="round">
+    <!-- 하단 사슬코 (바닥 위치 수평 정렬 고정) -->
+    <ellipse cx="37.0" cy="42.2" rx="3.5" ry="8.5" transform="rotate(35 37.0 42.2)" />
+    
+    <!-- 상단 사슬코 (우측 0.5px 미세 이동 튜닝 완료 좌표 고정) -->
+    <ellipse cx="47.2" cy="25.5" rx="3.5" ry="8.5" transform="rotate(35 47.2 25.5)" />
+  </g>
+</svg>

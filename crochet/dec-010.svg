@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 한길긴뜨기_4코_모아뜨기
+    - KR_NAME_ABBR     : 한길4모아
+    - JA_NAME_FULL     : 長編み4目一度
+    - JA_NAME_ABBR     : 長4目一度
+    - EN_NAME_US_FULL  : double_crochet_4_stitch_decrease
+    - EN_NAME_US_ABBR  : dc_4_st_dec
+    - EN_NAME_UK_FULL  : treble_crochet_4_stitch_decrease
+    - EN_NAME_UK_ABBR  : tr_4_st_dec
+    - SYMBOL_SHAPE     : 4_branched_inverted_fan_with_top_bar_and_slashes
+    - SYMBOL_STYLE     : dc_4_together_isolated
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:3
+    - STITCH_HEIGHT    : 3
+    - STITCH_COUNT     : 4
+    - CATEGORY          : dec
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>한길긴뜨기 4코 모아뜨기</dc:title>
+        <dc:description>보그 코바늘 표준 한길긴뜨기 4코 모아뜨기 기호. 모아뜨기(dec) 카테고리의 열 번째 도안. 빗금의 위치를 하단(41.2 ~ 44.8)으로 최종 조율하여 완벽한 시각적 안정감을 구현한 완본.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <g transform="translate(32, 32) scale(0.81) translate(-32, -32) translate(0, 4)" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 22 20 L 42 20"/>
+    
+    <!-- 1번 기둥: 왼쪽 끝 (-32도) -->
+    <g transform="rotate(-32, 32, 20)">
+      <path d="M 32 20 L 32 52"/>
+      <path d="M 28.8 41.2 L 35.2 44.8"/>
+    </g>
+
+    <!-- 2번 기둥: 왼쪽 안 (-11도) -->
+    <g transform="rotate(-11, 32, 20)">
+      <path d="M 32 20 L 32 52"/>
+      <path d="M 28.8 41.2 L 35.2 44.8"/>
+    </g>
+
+    <!-- 3번 기둥: 오른쪽 안 (11도) -->
+    <g transform="rotate(11, 32, 20)">
+      <path d="M 32 20 L 32 52"/>
+      <path d="M 28.8 41.2 L 35.2 44.8"/>
+    </g>
+
+    <!-- 4번 기둥: 오른쪽 끝 (32도) -->
+    <g transform="rotate(32, 32, 20)">
+      <path d="M 32 20 L 32 52"/>
+      <path d="M 28.8 41.2 L 35.2 44.8"/>
+    </g>
+  </g>
+</svg>

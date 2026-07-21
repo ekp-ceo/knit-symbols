@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 네길긴뜨기
+    - KR_NAME_ABBR     : 네길긴
+    - JA_NAME_FULL     : 長々々々編み
+    - JA_NAME_ABBR     : 長々々々
+    - EN_NAME_US_FULL  : triple_treble_crochet
+    - EN_NAME_US_ABBR  : trtr
+    - EN_NAME_UK_FULL  : quadruple_treble_crochet
+    - EN_NAME_UK_ABBR  : qtr
+    - SYMBOL_SHAPE     : t_shape
+    - SYMBOL_STYLE     : 4_slants
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : center
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 6
+    - STITCH_COUNT     : 1
+    - CATEGORY         : base
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>네길긴뜨기</dc:title>
+        <dc:description>보그 코바늘 표준 네길긴뜨기 기호. T자 기둥 중앙에 사선이 4개 교차하는 형태.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <!-- 64x64 해상도에 맞춘 네길긴뜨기 그래픽 -->
+  <!-- 기둥(세로선) -->
+  <line x1="32" y1="4" x2="32" y2="60" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- 지붕(가로선) -->
+  <line x1="16" y1="4" x2="48" y2="4" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- 사선 1 (맨 위) -->
+  <line x1="26" y1="18" x2="38" y2="10" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- 사선 2 (중상) -->
+  <line x1="26" y1="30" x2="38" y2="22" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- 사선 3 (중하) -->
+  <line x1="26" y1="42" x2="38" y2="34" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- 사선 4 (맨 아래) -->
+  <line x1="26" y1="54" x2="38" y2="46" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+</svg>

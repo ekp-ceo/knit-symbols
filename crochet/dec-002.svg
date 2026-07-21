@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 짧은뜨기_3코_모아뜨기
+    - KR_NAME_ABBR     : 짧은3모아
+    - JA_NAME_FULL     : 細編み3目一度
+    - JA_NAME_ABBR     : 細3目一度
+    - EN_NAME_US_FULL  : single_crochet_3_stitch_decrease
+    - EN_NAME_US_ABBR  : sc_3_st_dec
+    - EN_NAME_UK_FULL  : double_crochet_3_stitch_decrease
+    - EN_NAME_UK_ABBR  : dc_3_st_dec
+    - SYMBOL_SHAPE     : trident_inverted_v_shape
+    - SYMBOL_STYLE     : cross_contained
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 1
+    - STITCH_COUNT     : 3
+    - CATEGORY          : dec
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>짧은뜨기 3코 모아뜨기</dc:title>
+        <dc:description>보그 코바늘 표준 짧은뜨기 3코 모아뜨기 기호. 모아뜨기(dec) 카테고리의 두 번째 마스터 도안. 상단 꼭짓점(32, 20)에서 세 가닥으로 벌어지는 역V자 및 수직 기둥을 취하고, 내부 X 기호가 찌그러지지 않도록 정밀 간격을 유지한 정중앙 정렬 형태.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <!-- [0.81 스케일 및 캔버스 센터 정렬 밸런스 완벽 유지] -->
+  <g transform="translate(32, 32) scale(0.81) translate(-32, -32) translate(0, 4)" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    
+    <!-- 1. 외곽 역V자 줄기 (상하 반전 완료: 하단 10도 분산 확장) -->
+    <path d="M 10 50 L 32 20 L 54 50"/>
+    
+    <!-- 2. 중앙 수직 줄기 (상단 꼭짓점 32, 20에서 시작하여 내부 X 기호와의 유격을 위해 Y=36까지만 정밀 하강) -->
+    <path d="M 32 20 L 32 36"/>
+    
+    <!-- 3. 내부 하단 중앙 짧은뜨기(X) 기호 (중심부 Y=43 부근에 쾌적하게 안착) -->
+    <path d="M 26 37 L 38 49"/>
+    <path d="M 38 37 L 26 49"/>
+  </g>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA] - 보조선 오인 피처 제거 및 사슬3 고유 라벨링
+    - FILE_NAME        : ch-start-02.svg
+    - KR_NAME_FULL     : 긴뜨기_2코_늘려뜨기_시작코_사슬3
+    - KR_NAME_ABBR     : 긴뜨기2코늘려_시작코_3ch
+    - JA_NAME_FULL     : 中長編みの2目編み入れる_立ち上がり3目
+    - JA_NAME_ABBR     : 中長2目入れる_立ち上がり3
+    - EN_NAME_US_FULL  : half_double_crochet_2_stitch_increase_with_3_chain_start
+    - EN_NAME_US_ABBR  : hdc_2inc_3ch_start
+    - SYMBOL_SHAPE     : v_fork_with_flat_bottom_and_3_compact_chains
+    - SYMBOL_STYLE     : vogue_standard
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : flat_root_asymmetric_3_compressed_slim_chain
+    - STITCH_RATIO     : 1:2
+    - STITCH_HEIGHT    : 3
+    - STITCH_COUNT     : 2
+    - CATEGORY          : chain_start_column
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>긴뜨기 2코 늘려뜨기_시작코 (사슬3)</dc:title>
+        <dc:description>보그 코바늘 표준 [사슬 포함 시작코(ch-start)] 카테고리의 2번 기호. 스케치의 보조선 요소를 제외한 순수 긴뜨기 기둥을 유지하며, AI 데이터셋 학습 고유성 확보를 위해 사슬 3개 피처를 라벨명에 명시함. 35도 각도로 압축 배치된 사슬 기둥 완본.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <!-- 1. 좌측 일반 긴뜨기 기둥 그룹 (기본 두께 4.5px, 바닥 평면 정렬, 빗금 없음 완본) -->
+  <g fill="none" stroke="#000000" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- 좌측 긴뜨기 상단 머리 바 (높이 Y=16.0 기준선) -->
+    <path d="M 12.0 16.0 L 22.0 16.0" />
+
+    <!-- 좌측 긴뜨기 메인 경사 기둥 (바닥점 32.0, 49.6) -->
+    <path d="M 32.0 49.6 L 17.0 16.0" />
+  </g>
+
+  <!-- 2. 우측 시작 사슬코 기둥 세트 (35도 경사 유지 + 긴뜨기 높이에 맞춰 3단 사슬 초정밀 압축 적층) -->
+  <!-- 사슬 외곽선 3.5px, 내부 fill="#ffffff"로 구멍 개방 효과 극대화 -->
+  <g stroke="#000000" stroke-width="3.5" fill="#ffffff" stroke-linejoin="round">
+    <!-- [1층] 하단 사슬코 (긴뜨기 바닥선과 수평 매칭) -->
+    <ellipse cx="36.0" cy="43.5" rx="3.0" ry="6.5" transform="rotate(35 36.0 43.5)" />
+    
+    <!-- [2층] 중간 사슬코 (촘촘하게 밀착 연쇄) -->
+    <ellipse cx="42.0" cy="32.0" rx="3.0" ry="6.5" transform="rotate(35 42.0 32.0)" />
+
+    <!-- [3층] 상단 사슬코 (최종 머리 높이가 긴뜨기 정점 라인인 Y=16.0 부근에 정확히 안착하도록 조율) -->
+    <ellipse cx="48.0" cy="20.5" rx="3.0" ry="6.5" transform="rotate(35 48.0 20.5)" />
+  </g>
+</svg>

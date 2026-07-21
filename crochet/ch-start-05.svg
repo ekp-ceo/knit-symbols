@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA] - 한길긴뜨기 늘려뜨기 시작코 첫 번째 버전 - 사슬2
+    - FILE_NAME        : ch-start-05.svg
+    - KR_NAME_FULL     : 한길긴뜨기_2코_늘려뜨기_시작코_사슬2
+    - KR_NAME_ABBR     : 한길긴뜨기2코늘려_시작코_2ch
+    - JA_NAME_FULL     : 長編みの2目編み入れる_立ち上がり
+    - JA_NAME_ABBR     : 長2目入れる_立ち上がり
+    - EN_NAME_US_FULL  : double_crochet_2_stitch_increase_with_2_chain_start
+    - EN_NAME_US_ABBR  : dc_2inc_2ch_start
+    - SYMBOL_SHAPE     : v_fork_with_flat_bottom_slashed_and_2_aligned_chains
+    - SYMBOL_STYLE     : vogue_standard
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : flat_root_asymmetric_slashed_slim_chain
+    - STITCH_RATIO     : 1:2
+    - STITCH_HEIGHT    : 4
+    - STITCH_COUNT     : 2
+    - CATEGORY          : chain_start_column
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>한길긴뜨기 2코 늘려뜨기_시작코 (사슬2)</dc:title>
+        <dc:description>보그 코바늘 표준 [사슬 포함 시작코(ch-start)] 카테고리의 5번 마스터 기호. 좌측 경사 기둥에 한길긴뜨기를 뜻하는 사선 빗금 1줄을 명확히 추가하고, 우측 시작코 열에는 2개의 슬림 사슬코를 배치한 정석 완본.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <!-- 1. 좌측 일반 한길긴뜨기 기둥 그룹 (기본 두께 4.5px, 바닥 수직 바 제거 및 빗금 추가) -->
+  <g fill="none" stroke="#000000" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- 좌측 한길긴뜨기 상단 머리 바 -->
+    <path d="M 12.0 16.0 L 22.0 16.0" />
+
+    <!-- 좌측 한길긴뜨기 메인 경사 기둥 (바닥점 32.0, 49.6) -->
+    <path d="M 32.0 49.6 L 17.0 16.0" />
+
+    <!-- ★한길긴뜨기 핵심 피처: 기둥 중앙 사선 빗금 1줄 (경사 기둥에 직교하도록 깔끔하게 배치) -->
+    <path d="M 21.5 35.5 L 26.5 31.5" />
+  </g>
+
+  <!-- 2. 우측 시작 사슬코 기둥 세트 (35도 경사 유지 + 사슬 2개 황금 좌표 매칭) -->
+  <!-- 사슬 외곽선 3.5px, 내부 fill="#ffffff"로 구멍 개방 효과 극대화 -->
+  <g stroke="#000000" stroke-width="3.5" fill="#ffffff" stroke-linejoin="round">
+    <!-- 하단 사슬코 (바닥 위치 수평 정렬 고정) -->
+    <ellipse cx="37.0" cy="42.2" rx="3.5" ry="8.5" transform="rotate(35 37.0 42.2)" />
+    
+    <!-- 상단 사슬코 (우측 정밀 튜닝 완료된 정석 좌표 고정) -->
+    <ellipse cx="47.2" cy="25.5" rx="3.5" ry="8.5" transform="rotate(35 47.2 25.5)" />
+  </g>
+</svg>

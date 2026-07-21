@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 긴뜨기
+    - KR_NAME_ABBR     : 긴
+    - JA_NAME_FULL     : 中長編み
+    - JA_NAME_ABBR     : 中長
+    - EN_NAME_US_FULL  : half_double_crochet
+    - EN_NAME_US_ABBR  : hdc
+    - EN_NAME_UK_FULL  : half_treble_crochet
+    - EN_NAME_UK_ABBR  : htr
+    - SYMBOL_SHAPE     : t_shape
+    - SYMBOL_STYLE     : plain
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : center
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 2
+    - STITCH_COUNT     : 1
+    - CATEGORY         : base
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>긴뜨기</dc:title>
+        <dc:description>보그 코바늘 표준 긴뜨기 기호. 사선이 없는 기본적인 T자 형태.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <!-- 64x64 해상도에 맞춘 긴뜨기(T자) 그래픽 -->
+  <!-- 기둥(세로선) -->
+  <line x1="32" y1="16" x2="32" y2="48" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- 지붕(가로선) -->
+  <line x1="16" y1="16" x2="48" y2="16" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+</svg>

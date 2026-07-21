@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 두길긴뜨기_2코_모아뜨기
+    - KR_NAME_ABBR     : 두길2모아
+    - JA_NAME_FULL     : 長々編み2目一度
+    - JA_NAME_ABBR     : 長々2目一度
+    - EN_NAME_US_FULL  : treble_crochet_2_stitch_decrease
+    - EN_NAME_US_ABBR  : tr_2_st_dec
+    - EN_NAME_UK_FULL  : double_treble_crochet_2_stitch_decrease
+    - EN_NAME_UK_ABBR  : dtr_2_st_dec
+    - SYMBOL_SHAPE     : inverted_v_shape_with_top_bar_and_double_slashes
+    - SYMBOL_STYLE     : tr_2_together_isolated
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:4
+    - STITCH_HEIGHT    : 4
+    - STITCH_COUNT     : 2
+    - CATEGORY          : dec
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>두길긴뜨기 2코 모아뜨기</dc:title>
+        <dc:description>보그 코바늘 표준 두길긴뜨기 2코 모아뜨기 기호. 모아뜨기(dec) 카테고리의 열두 번째 도안. 각 기둥의 상단 빗금을 위로 0.5px 추가 상향(38.2 ~ 41.8) 조정하여 두 줄의 평행선 식별력을 극대화한 정밀 최종본.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <g transform="translate(32, 32) scale(0.81) translate(-32, -32) translate(0, 4)" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <!-- 상단 수평 바 -->
+    <path d="M 22 20 L 42 20"/>
+    
+    <!-- 1번 기둥 (왼쪽: -22도) -->
+    <g transform="rotate(-22, 32, 20)">
+      <path d="M 32 20 L 32 52"/>
+      <!-- 위쪽 빗금 (위로 0.5px 추가 이동) -->
+      <path d="M 28.8 38.2 L 35.2 41.8"/>
+      <!-- 아래쪽 빗금 (기존 위치 유지) -->
+      <path d="M 28.8 43.7 L 35.2 47.3"/>
+    </g>
+
+    <!-- 2번 기둥 (오른쪽: 22도) -->
+    <g transform="rotate(22, 32, 20)">
+      <path d="M 32 20 L 32 52"/>
+      <!-- 위쪽 빗금 (위로 0.5px 추가 이동) -->
+      <path d="M 28.8 38.2 L 35.2 41.8"/>
+      <!-- 아래쪽 빗금 (기존 위치 유지) -->
+      <path d="M 28.8 43.7 L 35.2 47.3"/>
+    </g>
+  </g>
+</svg>
