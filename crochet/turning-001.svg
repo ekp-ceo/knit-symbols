@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 기둥코_1코
+    - KR_NAME_ABBR     : 기둥1
+    - JA_NAME_FULL     : 立ち上がりの鎖目1目
+    - JA_NAME_ABBR     : 立ち1
+    - EN_NAME_US_FULL  : turning_chain_1_stitch
+    - EN_NAME_US_ABBR  : tch_1
+    - EN_NAME_UK_FULL  : turning_chain_1_stitch
+    - EN_NAME_UK_ABBR  : tch_1
+    - SYMBOL_SHAPE     : oval
+    - SYMBOL_STYLE     : open
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : center
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 1
+    - STITCH_COUNT     : 1
+    - CATEGORY         : turning
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>기둥코 1코</dc:title>
+        <dc:description>보그 코바늘 표준 기둥코 1코 기호. 세로로 곧게 선 형태의 타원.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <!-- 64x64 해상도 정중앙에 위치한 세로형 사슬 기호 -->
+  <ellipse cx="32" cy="32" rx="10" ry="18" fill="none" stroke="#000000" stroke-width="4"/>
+</svg>

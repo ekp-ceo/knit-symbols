@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA]
+    - FILE_NAME        : post-018.svg
+    - KR_NAME_FULL     : 긴뜨기_교차뜨기
+    - KR_NAME_ABBR     : 긴뜨기교차
+    - JA_NAME_FULL     : 中長編みの交差編み
+    - JA_NAME_ABBR     : 中長編交差
+    - EN_NAME_US_FULL  : half_double_crochet_cross_stitch
+    - EN_NAME_US_ABBR  : hdc_cross
+    - EN_NAME_UK_FULL  : half_treble_crochet_cross_stitch
+    - EN_NAME_UK_ABBR  : htr_cross
+    - SYMBOL_SHAPE     : pure_x_cross_with_overlapped_gap
+    - SYMBOL_STYLE     : vogue_standard
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : cross_overlapped_right_up_clean_root
+    - STITCH_RATIO     : 2:2
+    - STITCH_HEIGHT    : 2
+    - STITCH_COUNT     : 2
+    - CATEGORY          : cross_combination
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>긴뜨기 교차뜨기</dc:title>
+        <dc:description>보그 코바늘 표준 긴뜨기 교차뜨기 실존 기호. 정석 도안 데이터에 맞추어 하단의 불필요한 수평 바를 완벽히 제거하고, 순수한 X자 다리만 깨끗하게 떨어지도록 교정한 18번 마스터 최종 완본.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <g fill="none" stroke="#000000" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- 1. 상단 독립된 머리 바 2개 (80% 스케일) -->
+    <path d="M 16.0 14.4 L 25.6 14.4" />
+    <path d="M 38.4 14.4 L 48.0 14.4" />
+
+    <!-- 2. X자형 교차 몸통 (하단 수평 바 완벽 제거 및 다리 끝 독립 안착) -->
+    <!-- [전면] 우상향 기둥: 하단 좌측 단독 종점(20.8, 49.6)에서 상단 우측(43.2, 14.4)으로 직행 -->
+    <path d="M 20.8 49.6 L 43.2 14.4" />
+    
+    <!-- [후면] 좌상향 기둥: 하단 우측 단독 종점(43.2, 49.6)에서 출발하되, 중앙 교차 영역(X=32, Y=32)에 갭을 두어 분할 통과 -->
+    <!-- 하단 영역에서 교차점 전까지 상승 -->
+    <path d="M 43.2 49.6 L 35.0 36.8" />
+    <!-- 교차점 건너뛰고 상단 영역으로 상승 -->
+    <path d="M 29.0 27.2 L 20.8 14.4" />
+  </g>
+</svg>

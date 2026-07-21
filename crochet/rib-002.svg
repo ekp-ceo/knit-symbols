@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 긴뜨기_이랑뜨기
+    - KR_NAME_ABBR     : 긴이랑
+    - JA_NAME_FULL     : 中長編みの畝編み (すじ編み)
+    - JA_NAME_ABBR     : 中長畝編み
+    - EN_NAME_US_FULL  : half_double_crochet_back_loop_only
+    - EN_NAME_US_ABBR  : hdc_blo
+    - EN_NAME_UK_FULL  : half_treble_crochet_back_loop_only
+    - EN_NAME_UK_ABBR  : htr_blo
+    - SYMBOL_SHAPE     : t_shape_mark_with_bottom_flat_rib_bar
+    - SYMBOL_STYLE     : ribbed_vogue_standard
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : flat_rib_bar
+    - STITCH_RATIO     : 1:2
+    - STITCH_HEIGHT    : 2
+    - STITCH_COUNT     : 1
+    - CATEGORY          : rib
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>긴뜨기 이랑뜨기</dc:title>
+        <dc:description>보그 코바늘 표준 긴뜨기 이랑뜨기 기호. 정중앙에 위치한 긴뜨기(T) 심볼과 그 하단을 평평하게 받치는 정통 보그 스타일의 이랑뜨기 가로 바(Bar)를 조화롭게 결합한 완본.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <g fill="none" stroke="#000000" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- 1. 상단 긴뜨기 (T 심볼) -->
+    <!-- 긴뜨기 상단 가로 바 -->
+    <path d="M 20 14 L 44 14" />
+    <!-- 긴뜨기 수직 중심 기둥 (중심축 X=32, Y=14에서 Y=38까지 수직 낙하) -->
+    <path d="M 32 14 L 32 38" />
+
+    <!-- 2. 하단 이랑뜨기 가로 받침대 (Flat Rib Bar) -->
+    <!-- 수직 기둥 끝단(Y=38)과 적절한 시각적 여백을 두고 Y=48선에 정갈하게 배치 -->
+    <path d="M 18 48 L 46 48" />
+  </g>
+</svg>

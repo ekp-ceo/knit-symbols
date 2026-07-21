@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 짧은뜨기_이랑뜨기
+    - KR_NAME_ABBR     : 짧은이랑
+    - JA_NAME_FULL     : 細編みの畝編み (すじ編み)
+    - JA_NAME_ABBR     : 細編み畝編み
+    - EN_NAME_US_FULL  : single_crochet_back_loop_only
+    - EN_NAME_US_ABBR  : sc_blo
+    - EN_NAME_UK_FULL  : double_crochet_back_loop_only
+    - EN_NAME_UK_ABBR  : dc_blo
+    - SYMBOL_SHAPE     : cross_mark_with_bottom_flat_rib_bar
+    - SYMBOL_STYLE     : ribbed_vogue_standard
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : flat_rib_bar
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 1
+    - STITCH_COUNT     : 1
+    - CATEGORY          : rib
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>짧은뜨기 이랑뜨기</dc:title>
+        <dc:description>보그 코바늘 표준 짧은뜨기 이랑뜨기 기호. 정중앙에 위치한 짧은뜨기(X) 심볼과 그 하단을 평평하게 받치는 정통 보그 스타일의 이랑뜨기 가로 바(Bar)를 결합한 완본.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <g fill="none" stroke="#000000" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- 1. 상단 짧은뜨기 (X 심볼) -->
+    <!-- Y축 16 ~ 36 영역에 콤팩트하게 배치 -->
+    <path d="M 22 16 L 42 36" />
+    <path d="M 42 16 L 22 36" />
+
+    <!-- 2. 하단 이랑뜨기 가로 받침대 (Flat Rib Bar) -->
+    <!-- 보그 표준에 맞춰 스마일 곡선 대신 완전히 평평한 가로선 적용 -->
+    <path d="M 18 46 L 46 46" />
+  </g>
+</svg>

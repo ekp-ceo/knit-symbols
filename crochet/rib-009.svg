@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 두길_긴뜨기_2코_넣는_이랑뜨기_한_코에서
+    - KR_NAME_ABBR     : 두길이랑
+    - JA_NAME_FULL     : 長々編み2目編み入れる畝編み_すじ編み
+    - JA_NAME_ABBR     : 長々2目入れる畝編み
+    - EN_NAME_US_FULL  : treble_crochet_2_stitch_increase_back_loop_only
+    - EN_NAME_US_ABBR  : tr_2_st_inc_blo
+    - EN_NAME_UK_FULL  : double_treble_crochet_2_stitch_increase_back_loop_only
+    - EN_NAME_UK_ABBR  : dtr_2_st_inc_blo
+    - SYMBOL_SHAPE     : v_shape_separated_t_marks_with_staggered_double_slashes_and_bottom_flat_rib_bar
+    - SYMBOL_STYLE     : ribbed_increase_vogue_standard
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : flat_rib_bar
+    - STITCH_RATIO     : 1:4
+    - STITCH_HEIGHT    : 4
+    - STITCH_COUNT     : 2
+    - CATEGORY          : rib
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>두길 긴뜨기 2코 넣는 이랑뜨기 (한 코에서)</dc:title>
+        <dc:description>보그 코바늘 표준 두길 긴뜨기 2코 넣는 이랑뜨기 기호. 각 기둥의 상단 빗금은 바깥쪽으로 2px, 하단 빗금은 안쪽으로 2px 교차 이동하여 AI 인식용 획 분리도와 역동적인 형태감을 극대화한 정밀 교정 완본.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <g fill="none" stroke="#000000" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- 1. 상단 두길 긴뜨기 2코 넣는 늘림뜨기 (빗금 상/하 오프셋 교차 조정) -->
+    <!-- 왼쪽 두길 긴뜨기 요소 -->
+    <path d="M 13 14 L 29 14" />
+    <path d="M 21 14 L 32 38" />
+    <!-- 상단 빗금: 바깥쪽(왼쪽)으로 2px 이동 -->
+    <path d="M 21.5 19.5 L 27.5 22.5" />
+    <!-- 하단 빗금: 안쪽(오른쪽)으로 2px 이동 -->
+    <path d="M 23.0 26.5 L 29.0 29.5" />
+
+    <!-- 오른쪽 두길 긴뜨기 요소 -->
+    <path d="M 35 14 L 51 14" />
+    <path d="M 43 14 L 32 38" />
+    <!-- 상단 빗금: 바깥쪽(오른쪽)으로 2px 이동 -->
+    <path d="M 37.0 22.5 L 42.0 20.5" />
+    <!-- 하단 빗금: 안쪽(왼쪽)으로 2px 이동 -->
+    <path d="M 35.5 29.5 L 40.5 27.5" />
+
+    <!-- 2. 하단 이랑뜨기 가로 받침대 (Flat Rib Bar) -->
+    <path d="M 18 48 L 46 48" />
+  </g>
+</svg>

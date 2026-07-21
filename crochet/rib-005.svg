@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 세길_긴뜨기_이랑뜨기
+    - KR_NAME_ABBR     : 세길이랑
+    - JA_NAME_FULL     : 長々々編みの畝編み_すじ編み
+    - JA_NAME_ABBR     : 長々々畝編み
+    - EN_NAME_US_FULL  : double_treble_crochet_back_loop_only
+    - EN_NAME_US_ABBR  : dtr_blo
+    - EN_NAME_UK_FULL  : triple_treble_crochet_back_loop_only
+    - EN_NAME_UK_ABBR  : trtr_blo
+    - SYMBOL_SHAPE     : t_shape_mark_with_triple_slashes_and_bottom_flat_rib_bar
+    - SYMBOL_STYLE     : ribbed_vogue_standard
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : flat_rib_bar
+    - STITCH_RATIO     : 1:5
+    - STITCH_HEIGHT    : 5
+    - STITCH_COUNT     : 1
+    - CATEGORY          : rib
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>세길 긴뜨기 이랑뜨기</dc:title>
+        <dc:description>보그 코바늘 표준 세길 긴뜨기 이랑뜨기 기호. 메타데이터 규격을 엄격히 준수하여 모든 괄호와 공백을 언더바로 대체하였으며, 3개의 사선 빗금이 포함된 중앙 기둥과 하단 이랑 바를 결합한 마스터 완본.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <g fill="none" stroke="#000000" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- 1. 상단 세길 긴뜨기 (T 심볼 + 사선 빗금 3개) -->
+    <!-- 세길 긴뜨기 상단 가로 바 -->
+    <path d="M 20 14 L 44 14" />
+    <!-- 세길 긴뜨기 수직 중심 기둥 (중심축 X=32, Y=14 ~ Y=38) -->
+    <path d="M 32 14 L 32 38" />
+    <!-- 기둥에 얹히는 세길 긴뜨기 사선 빗금 3개 -->
+    <path d="M 28 19.5 L 36 24.5" />
+    <path d="M 28 26.0 L 36 31.0" />
+    <path d="M 28 32.5 L 36 37.5" />
+
+    <!-- 2. 하단 이랑뜨기 가로 받침대 (Flat Rib Bar) -->
+    <path d="M 18 48 L 46 48" />
+  </g>
+</svg>

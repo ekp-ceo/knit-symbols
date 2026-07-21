@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 원형_사슬_8코
+    - KR_NAME_ABBR     : 원형사슬_8
+    - JA_NAME_FULL     : 鎖の輪作り目8目
+    - JA_NAME_ABBR     : 鎖輪8
+    - EN_NAME_US_FULL  : chain_ring_8_stitches
+    - EN_NAME_US_ABBR  : ch_ring_8
+    - EN_NAME_UK_FULL  : chain_ring_8_stitches
+    - EN_NAME_UK_ABBR  : ch_ring_6
+    - SYMBOL_SHAPE     : ring_chains
+    - SYMBOL_STYLE     : 8_stitches
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : center
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 1
+    - STITCH_COUNT     : 8
+    - CATEGORY         : ring
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>원형 사슬 8코</dc:title>
+        <dc:description>보그 코바늘 표준 원형 사슬 8코 기호. 8개의 사슬이 원형으로 배치된 형태.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <!-- 45도 간격으로 정밀 회전 배치된 8개의 사슬뜨기(타원) -->
+  <g fill="none" stroke="#000000" stroke-width="3">
+    <!-- 0도 -->
+    <ellipse cx="32" cy="13" rx="8" ry="4" transform="rotate(0 32 32)"/>
+    <!-- 45도 -->
+    <ellipse cx="32" cy="13" rx="8" ry="4" transform="rotate(45 32 32)"/>
+    <!-- 90도 -->
+    <ellipse cx="32" cy="13" rx="8" ry="4" transform="rotate(90 32 32)"/>
+    <!-- 135도 -->
+    <ellipse cx="32" cy="13" rx="8" ry="4" transform="rotate(135 32 32)"/>
+    <!-- 180도 -->
+    <ellipse cx="32" cy="13" rx="8" ry="4" transform="rotate(180 32 32)"/>
+    <!-- 225도 -->
+    <ellipse cx="32" cy="13" rx="8" ry="4" transform="rotate(225 32 32)"/>
+    <!-- 270도 -->
+    <ellipse cx="32" cy="13" rx="8" ry="4" transform="rotate(270 32 32)"/>
+    <!-- 315도 -->
+    <ellipse cx="32" cy="13" rx="8" ry="4" transform="rotate(315 32 32)"/>
+  </g>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 기둥코_5코
+    - KR_NAME_ABBR     : 기둥5
+    - JA_NAME_FULL     : 立ち上がりの鎖目5目
+    - JA_NAME_ABBR     : 立ち5
+    - EN_NAME_US_FULL  : turning_chain_5_stitches
+    - EN_NAME_US_ABBR  : tch_5
+    - EN_NAME_UK_FULL  : turning_chain_5_stitches
+    - EN_NAME_UK_ABBR  : tch_5
+    - SYMBOL_SHAPE     : chain_vertical
+    - SYMBOL_STYLE     : 5_ovals
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : center
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 5
+    - STITCH_COUNT     : 1
+    - CATEGORY         : turning
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>기둥코 5코</dc:title>
+        <dc:description>보그 코바늘 표준 기둥코 5코 기호. 5개의 날씬한 사슬 타원이 겹침 없이 정교하게 수직 정렬된 구조.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <!-- 개별 타원의 세로 높이(ry)를 5.2로 정밀 축소하여, 5개가 캔버스 안에서 깨끗하게 맞닿도록 설계 -->
+  <g fill="none" stroke="#000000" stroke-width="4">
+    <!-- 첫 번째 사슬 (맨 위: 중심 cy=8, ry=5.2) -> 하단 끝점 13.2 -->
+    <ellipse cx="32" cy="8" rx="3.5" ry="5.2"/>
+    <!-- 두 번째 사슬 (중심 cy=18.4, ry=5.2) -> 하단 끝점 23.6 -->
+    <ellipse cx="32" cy="18.4" rx="3.5" ry="5.2"/>
+    <!-- 세 번째 사슬 (가운데: 중심 cy=28.8, ry=5.2) -> 하단 끝점 34.0 -->
+    <ellipse cx="32" cy="28.8" rx="3.5" ry="5.2"/>
+    <!-- 네 번째 사슬 (중심 cy=39.2, ry=5.2) -> 하단 끝점 44.4 -->
+    <ellipse cx="32" cy="39.2" rx="3.5" ry="5.2"/>
+    <!-- 다섯 번째 사슬 (맨 아래: 중심 cy=49.6, ry=5.2) -> 상단 끝점 44.4 -->
+    <ellipse cx="32" cy="49.6" rx="3.5" ry="5.2"/>
+  </g>
+</svg>

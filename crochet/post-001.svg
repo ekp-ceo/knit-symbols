@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 짧은뜨기_앞걸어뜨기
+    - KR_NAME_ABBR     : 짧은앞걸어
+    - JA_NAME_FULL     : 細編みの表引き上げ編み
+    - JA_NAME_ABBR     : 細編表引き上げ
+    - EN_NAME_US_FULL  : front_post_single_crochet
+    - EN_NAME_US_ABBR  : fpsc
+    - EN_NAME_UK_FULL  : front_post_double_crochet
+    - EN_NAME_UK_ABBR  : fpdc
+    - SYMBOL_SHAPE     : cross_bar_with_centered_loop_front_post_hook
+    - SYMBOL_STYLE     : post_stitch_vogue_standard
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : front_post_hook
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 1
+    - STITCH_COUNT     : 1
+    - CATEGORY          : post
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>짧은뜨기 앞걸어뜨기</dc:title>
+        <dc:description>보그 코바늘 표준 짧은뜨기 앞걸어뜨기 실존 기호. 기둥선(X=32)을 따라 내려오다 우측으로 부드럽게 꺾여 들어가며, 하단 원형 훅의 기하학적 중심이 전체 기둥 축과 완벽하게 가운데 정렬(Center Alignment)을 이루도록 설계된 마스터 완본.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <g fill="none" stroke="#000000" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- 1. 짧은뜨기 상단 가로 바 -->
+    <path d="M 22 18 L 42 18" />
+
+    <!-- 2. 실물 궤적 반영: 수직 기둥 및 가운데 정렬 원형 훅 -->
+    <!-- X=32로 내려오다가 오른쪽(X=38)으로 감아 돌며 하단 원(중심 X=32 부근)이 완벽한 대칭 밸런스를 잡도록 패스 조율 -->
+    <path d="M 32 10 L 32 30 C 32 32, 38 32, 40 35 C 43 40, 41 50, 32 50 C 23 50, 23 40, 23 40" />
+  </g>
+</svg>

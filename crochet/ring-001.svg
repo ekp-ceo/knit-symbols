@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 원형코
+    - KR_NAME_ABBR     : 원형코
+    - JA_NAME_FULL     : 輪の作り目
+    - JA_NAME_ABBR     : 輪
+    - EN_NAME_US_FULL  : magic_ring
+    - EN_NAME_US_ABBR  : mr
+    - EN_NAME_UK_FULL  : magic_ring
+    - EN_NAME_UK_ABBR  : mr
+    - SYMBOL_SHAPE     : spiral
+    - SYMBOL_STYLE     : open
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : center
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 0
+    - STITCH_COUNT     : 1
+    - CATEGORY         : ring
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>원형코</dc:title>
+        <dc:description>보그 코바늘 표준 원형코 기호. 모든 궤도의 간격이 100% 일정하게 유지되는 수학적 나선 형태.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <!-- 안쪽부터 바깥쪽까지 간격이 완벽하게 일정한 정원형 이중 나선 그래픽 -->
+  <path d="M 27,32 
+           A 7,7 0 0,1 41,32 
+           A 12,12 0 0,1 17,32 
+           A 17,17 0 0,1 51,32 
+           A 22,22 0 0,1 40,51" 
+        fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+</svg>

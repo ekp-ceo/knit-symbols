@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 한길_긴뜨기_앞걸어_3코_늘려뜨기
+    - KR_NAME_ABBR     : 한길앞걸어3코늘려
+    - JA_NAME_FULL     : 長編みの表引き上げ3目編み入れる
+    - JA_NAME_ABBR     : 長編表引3目編入
+    - EN_NAME_US_FULL  : 3_dc_increase_front_post
+    - EN_NAME_US_ABBR  : fpdc_3inc
+    - EN_NAME_UK_FULL  : 3_tr_increase_front_post
+    - EN_NAME_UK_ABBR  : fptr_3inc
+    - SYMBOL_SHAPE     : trident_stem_with_final_optimized_symmetrical_slashes
+    - SYMBOL_STYLE     : post_stitch_vogue_standard
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : front_post_hook_triple_branch
+    - STITCH_RATIO     : 3:3
+    - STITCH_HEIGHT    : 3
+    - STITCH_COUNT     : 3
+    - CATEGORY          : post_combination
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>한길 긴뜨기 앞걸어 3코 늘려뜨기</dc:title>
+        <dc:description>보그 코바늘 표준 한길 긴뜨기 앞걸어 3코 늘려뜨기 실존 기호. 중앙 및 우측 빗금의 위치를 최종 정밀 보정하여 3분기 부채꼴 기둥 축과의 완벽한 일치성을 구현하고 하단 앞걸어 훅을 정중앙 정렬한 13번 마스터 완본.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <g fill="none" stroke="#000000" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- 1. 상단 머리 바 3개 -->
+    <path d="M 11.5 10 L 22 10" />
+    <path d="M 27 10 L 37 10" />
+    <path d="M 42 10 L 52.5 10" />
+
+    <!-- 2. 삼지창(부채꼴)형 3분기 기둥 몸통 -->
+    <path d="M 16 10 L 32 30" />
+    <path d="M 32 10 L 32 30" />
+    <path d="M 48 10 L 32 30" />
+
+    <!-- 3. 몸통 사선 빗금 3개 (최종 픽셀 미세 조정 반영) -->
+    <!-- 1번(좌측) 빗금: 이전 최적화 위치 유지 -->
+    <path d="M 19.0 18.5 L 24.6 16.0" />
+    <!-- 2번(중앙) 빗금: 좌로 0.5px 이동하여 정중앙 축 정렬 (29.5/35.5 -> 29.0/35.0) -->
+    <path d="M 29.0 19.0 L 35.0 16.0" />
+    <!-- 3번(우측) 빗금: 우로 0.5px 이동하여 기둥 축 정렬 (39.4/45.0 -> 39.9/45.5) -->
+    <path d="M 39.9 18.0 L 45.5 15.5" />
+
+    <!-- 4. 하단 단일 뿌리: 가운데 정렬 원형 앞걸어 훅 -->
+    <path d="M 32 30 L 32 32 C 32 34, 38 34, 40 37 C 43 42, 41 52, 32 52 C 23 52, 23 42, 23 42" />
+  </g>
+</svg>

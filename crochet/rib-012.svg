@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 한길_긴뜨기_2코_모아_이랑뜨기
+    - KR_NAME_ABBR     : 한길2코모아이랑
+    - JA_NAME_FULL     : 長編み2目一度の畝編み_すじ編み
+    - JA_NAME_ABBR     : 長編2目一度畝編み
+    - EN_NAME_US_FULL  : double_crochet_2_stitch_decrease_back_loop_only
+    - EN_NAME_US_ABBR  : dc_2_st_inc_blo
+    - EN_NAME_UK_FULL  : treble_crochet_2_stitch_decrease_back_loop_only
+    - EN_NAME_UK_ABBR  : tr_2_st_inc_blo
+    - SYMBOL_SHAPE     : inverted_v_shape_cross_marks_with_lowered_inner_slashes_and_bottom_flat_rib_bar
+    - SYMBOL_STYLE     : ribbed_decrease_vogue_standard
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : flat_rib_bar
+    - STITCH_RATIO     : 1:3
+    - STITCH_HEIGHT    : 3
+    - STITCH_COUNT     : 2
+    - CATEGORY          : rib
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>한길 긴뜨기 2코 모아 이랑뜨기</dc:title>
+        <dc:description>보그 코바늘 표준 한길 긴뜨기 2코 모아 이랑뜨기 실존 기호. 역V자(A자) 구조의 사선 기둥 몸통 중심에 맞춰 빗금을 수직 1px 하향 조정하고, 하단 수평 이랑 바를 결합한 12번 마스터 완본.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <g fill="none" stroke="#000000" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- 1. 상단 한길 긴뜨기 2코 모아뜨기 -->
+    <!-- 왼쪽 한길 긴뜨기 다리 및 수직 하향(1px) 반영된 안쪽 정렬 빗금 -->
+    <path d="M 21 38 L 32 16" />
+    <path d="M 22.5 30.0 L 28.5 27.0" />
+
+    <!-- 오른쪽 한길 긴뜨기 다리 및 수직 하향(1px) 반영된 미러링 안쪽 정렬 빗금 -->
+    <path d="M 43 38 L 32 16" />
+    <path d="M 35.5 27.0 L 41.5 30.0" />
+
+    <!-- 2. 하단 이랑뜨기 가로 받침대 (Flat Rib Bar) -->
+    <path d="M 16 48 L 48 48" />
+  </g>
+</svg>
