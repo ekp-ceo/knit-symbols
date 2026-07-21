@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 사슬뜨기
+    - KR_NAME_ABBR     : 사슬
+    - JA_NAME_FULL     : 鎖編み
+    - JA_NAME_ABBR     : 鎖
+    - EN_NAME_US_FULL  : chain_stitch
+    - EN_NAME_US_ABBR  : ch
+    - EN_NAME_UK_FULL  : chain_stitch
+    - EN_NAME_UK_ABBR  : ch
+    - SYMBOL_SHAPE     : oval
+    - SYMBOL_STYLE     : open
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : center
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 1
+    - STITCH_COUNT     : 1
+    - CATEGORY         : base
+    - Y_OFFSET         : -4
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : +1
+    ================================================================
+  -->
+<svg id="_레이어_1" data-name="레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <!-- Generator: Adobe Illustrator 29.3.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 146)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <ellipse class="st0" cx="32" cy="40" rx="18" ry="10"/>
+</svg>

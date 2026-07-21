@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 한길_긴뜨기_4코_구슬뜨기_한_코에서
+    - KR_NAME_ABBR     : 한길4구슬
+    - JA_NAME_FULL     : 長編み4目の玉編み
+    - JA_NAME_ABBR     : 長4目玉編み
+    - EN_NAME_US_FULL  : double_crochet_4_stitch_bobble
+    - EN_NAME_US_ABBR  : dc_4_st_bobble
+    - EN_NAME_UK_FULL  : treble_crochet_4_stitch_bobble
+    - EN_NAME_UK_ABBR  : tr_4_st_bobble
+    - SYMBOL_SHAPE     : 4_branched_oval_almond_shape_with_top_bar_and_slashes
+    - SYMBOL_STYLE     : dc_4_bobble_isolated
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:3
+    - STITCH_HEIGHT    : 3
+    - STITCH_COUNT     : 4
+    - CATEGORY         : bobble
+    - Y_OFFSET         : 0
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : 0
+    ================================================================
+  -->
+<svg id="_레이어_1" data-name="레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <!-- Generator: Adobe Illustrator 29.3.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 146)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- 대표님이 정밀한 4가닥 독자 빗금 레이아웃으로 최적화하신 완본 그래픽 (y=16~48, 두께 4px) -->
+  <path class="st0" d="M20,16h24"/>
+  <path class="st0" d="M32,16c-18.2,8-18.2,24,0,32"/>
+  <path class="st0" d="M16,31.1l4,2.3"/>
+  <path class="st0" d="M32,16c-9.5,8-9.5,24,0,32"/>
+  <path class="st0" d="M22.9,29.8l4,2.3"/>
+  <path class="st0" d="M32,16c9.5,8,9.5,24,0,32"/>
+  <path class="st0" d="M37.1,31.8l4,2.3"/>
+  <path class="st0" d="M32,16c18.2,8,18.2,24,0,32"/>
+  <path class="st0" d="M44,31.1l4,2.3"/>
+</svg>

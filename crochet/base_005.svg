@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 한길긴뜨기
+    - KR_NAME_ABBR     : 한길긴
+    - JA_NAME_FULL     : 長編み
+    - JA_NAME_ABBR     : 長
+    - EN_NAME_US_FULL  : double_crochet
+    - EN_NAME_US_ABBR  : dc
+    - EN_NAME_UK_FULL  : treble_crochet
+    - EN_NAME_UK_ABBR  : tr
+    - SYMBOL_SHAPE     : t_shape
+    - SYMBOL_STYLE     : 1_slant
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : center
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 3
+    - STITCH_COUNT     : 1
+    - CATEGORY         : base
+    - Y_OFFSET         : 0
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : 0
+    ================================================================
+  -->
+<svg id="_레이어_1" data-name="레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <!-- Generator: Adobe Illustrator 29.3.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 146)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- 대표님이 일러스트레이터로 완벽하게 수정한 롱다리 규격 (H:56, W:24, 바닥 밀착) -->
+  <line class="st0" x1="32" y1="8" x2="32" y2="64"/>
+  <line class="st0" x1="20" y1="8" x2="44" y2="8"/>
+  <line class="st0" x1="25.2" y1="39.7" x2="38.2" y2="31.1"/>
+</svg>

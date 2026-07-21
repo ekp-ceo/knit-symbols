@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 두길긴뜨기_2코_늘려뜨기_시작코_사슬3
+    - KR_NAME_ABBR     : 두길긴뜨기2코늘려_시작코_3ch
+    - JA_NAME_FULL     : 長々編みの2目編み入れる_立ち上がり3目
+    - JA_NAME_ABBR     : 長々2目入れる_立ち上がり3
+    - EN_NAME_US_FULL  : treble_crochet_2_stitch_increase_with_3_chain_start
+    - EN_NAME_US_ABBR  : tr_2inc_3ch_start
+    - EN_NAME_UK_FULL  : double_treble_crochet_2_stitch_increase_with_3_chain_start
+    - EN_NAME_UK_ABBR  : dtr_2inc_3ch_start
+    - SYMBOL_SHAPE     : v_fork_with_flat_bottom_double_slashed_and_3_compact_chains
+    - SYMBOL_STYLE     : vogue_standard
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : flat_root_asymmetric_double_slashed_3_compressed_slim_chain
+    - STITCH_RATIO     : 1:2
+    - STITCH_HEIGHT    : 5
+    - STITCH_COUNT     : 2
+    - CATEGORY         : chain_start_column
+    - Y_OFFSET         : 0
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : +1
+    ================================================================
+  -->
+<svg id="_레이어_1" data-name="레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <!-- Generator: Adobe Illustrator 29.3.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 146)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke-linecap: round;
+      }
+
+      .st0, .st1 {
+        stroke: #000;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <!-- 대표님이 바닥선(y=60) 밀착 및 정밀한 3단 사슬 연쇄 패스로 최적화하신 두길긴뜨기 시작코 마스터 그래픽 -->
+  <path class="st0" d="M11,21.3h10.4"/>
+  <path class="st0" d="M31.8,60l-15.6-38.7"/>
+  <path class="st0" d="M19.3,37.4l5.2-4.6"/>
+  <path class="st0" d="M21.5,44.2l5.2-4.6"/>
+  <path class="st1" d="M39.8,46.8c1.4,1.1.8,4.7-1.3,8.1s-5,5.3-6.4,4.2-.8-4.7,1.3-8.1c2.1-3.4,5-5.3,6.4-4.2Z"/>
+  <path class="st1" d="M46,33.6c1.4,1.1.8,4.7-1.3,8.1s-5,5.3-6.4,4.2-.8-4.7,1.3-8.1,5-5.3,6.4-4.2Z"/>
+  <path class="st1" d="M52.2,20.3c1.4,1.1.8,4.7-1.3,8.1s-5,5.3-6.4,4.2-.8-4.7,1.3-8.1,5-5.3,6.4-4.2Z"/>
+</svg>

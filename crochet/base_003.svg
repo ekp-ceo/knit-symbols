@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 빼뜨기
+    - KR_NAME_ABBR     : 빼
+    - JA_NAME_FULL     : 引き抜き編み
+    - JA_NAME_ABBR     : 引抜
+    - EN_NAME_US_FULL  : slip_stitch
+    - EN_NAME_US_ABBR  : sl_st
+    - EN_NAME_UK_FULL  : slip_stitch
+    - EN_NAME_UK_ABBR  : ss
+    - SYMBOL_SHAPE     : circle
+    - SYMBOL_STYLE     : solid
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : center
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 0
+    - STITCH_COUNT     : 1
+    - CATEGORY         : base
+    - Y_OFFSET         : -3
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : 0
+    ================================================================
+  -->
+<svg id="_레이어_1" data-name="레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <!-- Generator: Adobe Illustrator 29.3.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 146)  -->
+  <circle cx="32" cy="40" r="6"/>
+</svg>

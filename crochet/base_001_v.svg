@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 짧은뜨기_변형
+    - KR_NAME_ABBR     : 짧은_변
+    - JA_NAME_FULL     : 細編み_変形
+    - JA_NAME_ABBR     : 細_変
+    - EN_NAME_US_FULL  : single_crochet_variant
+    - EN_NAME_US_ABBR  : sc_v
+    - EN_NAME_UK_FULL  : double_crochet_variant
+    - EN_NAME_UK_ABBR  : dc_v
+    - SYMBOL_SHAPE     : plus
+    - SYMBOL_STYLE     : line
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : center
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 1
+    - STITCH_COUNT     : 1
+    - CATEGORY         : base
+    - Y_OFFSET         : 0
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : 0
+    ================================================================
+  -->
+<svg id="_레이어_1" data-name="레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <!-- Generator: Adobe Illustrator 29.3.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 146)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <line class="st0" x1="32" y1="24" x2="32" y2="56"/>
+  <line class="st0" x1="16" y1="40" x2="48" y2="40"/>
+</svg>

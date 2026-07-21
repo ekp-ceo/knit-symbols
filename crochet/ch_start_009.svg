@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 두길긴뜨기_2코_늘려뜨기_시작코_사슬2
+    - KR_NAME_ABBR     : 두길긴뜨기2코늘려_시작코_2ch
+    - JA_NAME_FULL     : 長々編みの2目編み入れる_立ち上がり
+    - JA_NAME_ABBR     : 長々2目入れる_立ち上がり
+    - EN_NAME_US_FULL  : treble_crochet_2_stitch_increase_with_2_chain_start
+    - EN_NAME_US_ABBR  : tr_2inc_2ch_start
+    - EN_NAME_UK_FULL  : double_treble_crochet_2_stitch_increase_with_2_chain_start
+    - EN_NAME_UK_ABBR  : dtr_2inc_2ch_start
+    - SYMBOL_SHAPE     : v_fork_with_flat_bottom_double_slashed_and_2_aligned_chains
+    - SYMBOL_STYLE     : vogue_standard
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : flat_root_asymmetric_double_slashed_slim_chain
+    - STITCH_RATIO     : 1:2
+    - STITCH_HEIGHT    : 5
+    - STITCH_COUNT     : 2
+    - CATEGORY         : chain_start_column
+    - Y_OFFSET         : 0
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : +2
+    ================================================================
+  -->
+<svg id="_레이어_1" data-name="레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke-linecap: round;
+      }
+
+      .st0, .st1 {
+        stroke: #000;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <!-- 대표님의 바닥선(y=61) 밀착 철칙 및 2단 빗금 균형을 완벽 적용하여 빌드한 두길긴뜨기 시작코 마스터 그래픽 -->
+  <g>
+    <path class="st0" d="M12,19h9.8"/>
+    <path class="st0" d="M31.6,61l-14.7-42"/>
+    <path class="st0" d="M22.5,35.4l4.9-5"/>
+    <path class="st0" d="M19.1,43.4l4.9-5"/>
+  </g>
+  <g>
+    <path class="st1" d="M41.2,43c1.6,1.4.7,6.4-2,11.2s-6,7.6-7.6,6.2-.7-6.4,2-11.2,6-7.6,7.6-6.2Z"/>
+    <path class="st1" d="M51.2,22.2c1.6,1.4.7,6.4-2,11.2s-6,7.6-7.6,6.2-.7-6.4,2-11.2,6-7.6,7.6-6.2Z"/>
+  </g>
+</svg>

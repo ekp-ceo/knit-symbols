@@ -1,0 +1,40 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 짧은뜨기
+    - KR_NAME_ABBR     : 짧은
+    - JA_NAME_FULL     : 細編み
+    - JA_NAME_ABBR     : 細
+    - EN_NAME_US_FULL  : single_crochet
+    - EN_NAME_US_ABBR  : sc
+    - EN_NAME_UK_FULL  : double_crochet
+    - EN_NAME_UK_ABBR  : dc
+    - SYMBOL_SHAPE     : cross
+    - SYMBOL_STYLE     : line
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : center
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 1
+    - STITCH_COUNT     : 1
+    - CATEGORY         : base
+    - Y_OFFSET         : 0
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : 0
+    ================================================================
+  -->
+  <metadata>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description>
+        <dc:title>짧은뜨기</dc:title>
+        <dc:description>보그 코바늘 표준 짧은뜨기 기호. 두 개의 선이 교차하는 X자 형태.</dc:description>
+      </rdf:Description>
+    </rdf:RDF>
+  </metadata>
+
+  <!-- 64x64 해상도에 맞춘 X자 그래픽 -->
+  <line x1="18" y1="18" x2="46" y2="46" stroke="#000000" stroke-width="6" stroke-linecap="round"/>
+  <line x1="46" y1="18" x2="18" y2="46" stroke="#000000" stroke-width="6" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 두길_긴뜨기_4코_구슬뜨기_코_아래에서
+    - KR_NAME_ABBR     : 두길4구슬_아래
+    - JA_NAME_FULL     : 長々編み4目の玉編み_下
+    - JA_NAME_ABBR     : 長々4目玉編み_下
+    - EN_NAME_US_FULL  : triple_crochet_4_stitch_bobble_from_below
+    - EN_NAME_US_ABBR  : tr_4_st_bobble_blw
+    - EN_NAME_UK_FULL  : double_treble_crochet_4_stitch_bobble_from_below
+    - EN_NAME_UK_ABBR  : dtr_4_st_bobble_blw
+    - SYMBOL_SHAPE     : 4_branched_inverted_open_oval_shape_with_top_bar_and_double_slashes
+    - SYMBOL_STYLE     : tr_4_bobble_open_base
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:4
+    - STITCH_HEIGHT    : 4
+    - STITCH_COUNT     : 4
+    - CATEGORY         : bobble
+    - Y_OFFSET         : 0
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : 0
+    ================================================================
+  -->
+<svg id="_레이어_1" data-name="레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <!-- Generator: Adobe Illustrator 29.3.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 146)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- 대표님이 완벽한 2:1 배수 곡률과 2단 수평 빗금 칼정렬로 최적화하신 마스터 그래픽 (y=16~48, 두께 4px) -->
+  <path class="st0" d="M20,16h24"/>
+  <path class="st0" d="M32,16c-16.8,8-16.8,24-10.1,32"/>
+  <path class="st0" d="M16.8,27.2l3.9,2.3"/>
+  <path class="st0" d="M16,34.5l3.9,2.3"/>
+  <path class="st0" d="M32,16c-8.4,8-8.4,24-3.4,32"/>
+  <path class="st0" d="M24.8,27.2l3.9,2.3"/>
+  <path class="st0" d="M24,34.5l3.9,2.3"/>
+  <path class="st0" d="M32,16c8.4,8,8.4,24,3.4,32"/>
+  <path class="st0" d="M35.3,27.2l3.9,2.3"/>
+  <path class="st0" d="M36.1,34.5l3.9,2.3"/>
+  <path class="st0" d="M32,16c16.8,8,16.8,24,10.1,32"/>
+  <path class="st0" d="M43.3,27.2l3.9,2.3"/>
+  <path class="st0" d="M44.1,34.5l3.9,2.3"/>
+</svg>
