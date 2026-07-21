@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 한길긴뜨기_4코_늘려뜨기_한_코에서_중간_사슬_1코
+    - KR_NAME_ABBR     : 한길4늘려_코_사슬1
+    - JA_NAME_FULL     : 長編み4目編み入れる_目に_中間に鎖1目
+    - JA_NAME_ABBR     : 長4目入れ_鎖
+    - EN_NAME_US_FULL  : double_crochet_4_stitch_increase_into_stitch_with_1_intermediate_ch
+    - EN_NAME_US_ABBR  : dc_4_st_inc_1_ch
+    - EN_NAME_UK_FULL  : treble_crochet_4_stitch_increase_into_stitch_with_1_intermediate_ch
+    - EN_NAME_UK_ABBR  : tr_4_st_inc_1_ch
+    - SYMBOL_SHAPE     : 4_rotated_basic_dc_bars_with_lowered_oval_chain
+    - SYMBOL_STYLE     : dc_4_branched_isolated_with_chain
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : chain
+    - STITCH_RATIO     : 1:3
+    - STITCH_HEIGHT    : 3
+    - STITCH_COUNT     : 4
+    - CATEGORY         : inc
+    - Y_OFFSET         : 0
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : +4
+    ================================================================
+  -->
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <!-- Generator: Adobe Illustrator 29.3.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 146)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- 대표님이 바닥선(y=56) 밀착, 절대 패스 회전 좌표의 시각적 밸런스와 중앙 사슬(y=16.7) 안착 비례를 완벽하게 재정비하신 한길긴뜨기 4코 늘려뜨기(중간 사슬) 최종 마스터 완본 그래픽 -->
+  <path class="st0" d="M14.6,26.3l17.4,29.7"/>
+  <path class="st0" d="M12.3,29.9l4.5-7"/>
+  <path class="st0" d="M15.6,35.7l5.9-2.5"/>
+  <path class="st0" d="M22.7,18.8l9.3,37.2"/>
+  <path class="st0" d="M20.4,20.6l4.5-3.8"/>
+  <path class="st0" d="M22.8,28l6.1.9"/>
+  <path class="st0" d="M41.3,18.8l-9.3,37.2"/>
+  <path class="st0" d="M39.1,16.9l4.5,3.8"/>
+  <path class="st0" d="M36.1,26l4.1,6.9"/>
+  <path class="st0" d="M49.4,26.3l-17.4,29.7"/>
+  <path class="st0" d="M47.2,22.8l4.5,7"/>
+  <path class="st0" d="M44.4,30.1l2.2,8.7"/>
+  <ellipse class="st0" cx="32" cy="16.7" rx="4.2" ry="3.7"/>
+</svg>

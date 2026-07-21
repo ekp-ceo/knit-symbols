@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 짧은뜨기_2코_모아뜨기
+    - KR_NAME_ABBR     : 짧은2모아
+    - JA_NAME_FULL     : 細編み2目一度
+    - JA_NAME_ABBR     : 細2目一度
+    - EN_NAME_US_FULL  : single_crochet_2_stitch_decrease
+    - EN_NAME_US_ABBR  : sc_2_st_dec
+    - EN_NAME_UK_FULL  : double_crochet_2_stitch_decrease
+    - EN_NAME_UK_ABBR  : dc_2_st_dec
+    - SYMBOL_SHAPE     : inverted_v_shape
+    - SYMBOL_STYLE     : cross_contained
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 1
+    - STITCH_COUNT     : 2
+    - CATEGORY         : dec
+    - Y_OFFSET         : 0
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : -1
+    ================================================================
+  -->
+<svg id="_레이어_1" data-name="레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- 대표님의 바닥 8px 여백 확보 철칙(y=56 밀착) 및 순수 정수 패스로 컴파일 완료된 모아뜨기 첫 번째 완본 그래픽 -->
+  <g>
+    <!-- 역V자 메인 줄기 (폭 40px, 높이 27px 구현) -->
+    <path class="st0" d="M12,56l20-27,20,27"/>
+    <!-- 내부 정중앙 짧은뜨기 X 마크 피처 -->
+    <path class="st0" d="M27,41l10,10"/>
+    <path class="st0" d="M37,41l-10,10"/>
+  </g>
+</svg>

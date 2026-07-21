@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 짧은뜨기_2코_늘려뜨기_중간_사슬1코
+    - KR_NAME_ABBR     : 짧은2늘려사슬_1
+    - JA_NAME_FULL     : 細編み2目編み入れる_鎖1目
+    - JA_NAME_ABBR     : 細2増し_鎖1
+    - EN_NAME_US_FULL  : single_crochet_increase_with_intermediate_chain_1
+    - EN_NAME_US_ABBR  : sc_inc_ch_1
+    - EN_NAME_UK_FULL  : double_crochet_increase_with_intermediate_chain_1s
+    - EN_NAME_UK_ABBR  : dc_inc_ch_1
+    - SYMBOL_SHAPE     : v_shape
+    - SYMBOL_STYLE     : oval_contained_with_crosses
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : chain_center
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 1
+    - STITCH_COUNT     : 2
+    - CATEGORY         : inc
+    - Y_OFFSET         : 0
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : +2
+    ================================================================
+  -->
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <!-- Generator: Adobe Illustrator 29.3.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 146)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- 대표님이 바닥선(y=56) 밀착, 전체 고도 27px(y=29) 짧은뜨기 정석 비례 적용 및 사슬 기호 유격을 정밀 최적화하신 마스터 완본 그래픽 -->
+  <path class="st0" d="M13.8,29l18.2,27,18.2-27"/>
+  <path class="st0" d="M12,34.4h10.9"/>
+  <path class="st0" d="M41.1,34.4h10.9"/>
+  <ellipse class="st0" cx="32" cy="36.2" rx="4.1" ry="2.7"/>
+</svg>

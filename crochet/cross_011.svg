@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 두길_긴뜨기_교차뜨기_중간_사슬코_오른쪽
+    - KR_NAME_ABBR     : 두길교차_중간사슬_오른쪽
+    - JA_NAME_FULL     : 長々編みの交差編み_間に鎖編み_右
+    - JA_NAME_ABBR     : 長々編交差_間鎖_右
+    - EN_NAME_US_FULL  : triple_crochet_cross_stitch_with_chain_right
+    - EN_NAME_US_ABBR  : tr_cross_ch_r
+    - EN_NAME_UK_FULL  : double_treble_crochet_cross_stitch_with_chain_right
+    - EN_NAME_UK_ABBR  : dtr_cross_ch_r
+    - SYMBOL_SHAPE     : x_cross_with_top_chain_and_gap
+    - SYMBOL_STYLE     : vogue_standard
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : cross_overlapped_right_up_with_chain
+    - STITCH_RATIO     : 2:2
+    - STITCH_HEIGHT    : 4
+    - STITCH_COUNT     : 2
+    - CATEGORY         : cross
+    - Y_OFFSET         : 0
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : +1
+    ================================================================
+  -->
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+      .st1 {
+        fill: #fff;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- cross 전용 데이터셋 마스터 규격을 준수하고, 정수리 사슬코 공간 고도(y=17.3)와 바닥선(y=56) 안착 궤적 및 이중 평행 사선 빗금의 2:2 거울 반전 대칭 균형을 완벽하게 수호한 두길긴뜨기 교차뜨기(중간 사슬코-오른쪽) 최종 마스터 완본 그래픽 -->
+  <g>
+    <path class="st0" d="M12,17.3h12"/>
+    <path class="st0" d="M40,17.3h12"/>
+    <path class="st0" d="M46,56L18,17.3"/>
+    <path class="st0" d="M18,56l10.3-14.1"/>
+    <path class="st0" d="M35.8,31.4l10.3-14.1"/>
+  </g>
+  <ellipse class="st1" cx="32" cy="17.3" rx="6.2" ry="3.3"/>
+  <g>
+    <path class="st0" d="M29.5,27.3l-7,2.7"/>
+    <path class="st0" d="M25.8,23.5l-7,2.7"/>
+    <path class="st0" d="M34.5,27.3l7,2.7"/>
+    <path class="st0" d="M38.2,23.5l7,2.7"/>
+  </g>
+</svg>

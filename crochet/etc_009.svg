@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 바늘_돌려서_짧은뜨기
+    - KR_NAME_ABBR     : 돌려짧
+    - JA_NAME_FULL     : 針を回す細編み_ねじり細編み
+    - JA_NAME_ABBR     : ねじり細
+    - EN_NAME_US_FULL  : twisted_single_crochet
+    - EN_NAME_US_ABBR  : twisted_sc
+    - EN_NAME_UK_FULL  : twisted_double_crochet
+    - EN_NAME_UK_ABBR  : twisted_dc
+    - SYMBOL_SHAPE     : cross_with_top_ellipse_and_curved_bar
+    - SYMBOL_STYLE     : standard
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : center
+    - SYMBOL_MODIFIER  : twisted
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 1
+    - STITCH_COUNT     : 1
+    - CATEGORY         : etc
+    - Y_OFFSET         : -2
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : 0
+    ================================================================
+  -->
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- etc 카테고리 009: 바늘 돌려서 짧은뜨기 (대표님 정밀 교정 패스: 상단 작은 타원 링 + 완만한 가로 타원 곡선 + 바닥 y=49 안착 ✕ 교차선 마스터 완본) -->
+  <g class="st0">
+    <ellipse cx="32" cy="23.8" rx="3.8" ry="2.8"/>
+    <path d="M22,29.7c3.5-2.2,16.5-2.2,20,0"/>
+    <line x1="22" y1="34.6" x2="42" y2="49"/>
+    <line x1="42" y1="34.6" x2="22" y2="49"/>
+  </g>
+</svg>

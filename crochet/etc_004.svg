@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 피코_뜨기
+    - KR_NAME_ABBR     : 피코
+    - JA_NAME_FULL     : ピコット編み
+    - JA_NAME_ABBR     : ピコット
+    - EN_NAME_US_FULL  : picot_stitch
+    - EN_NAME_US_ABBR  : picot
+    - EN_NAME_UK_FULL  : picot_stitch
+    - EN_NAME_UK_ABBR  : picot
+    - SYMBOL_SHAPE     : 3_chain_arch
+    - SYMBOL_STYLE     : standard
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : center
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 1
+    - STITCH_COUNT     : 1
+    - CATEGORY         : etc
+    - Y_OFFSET         : -2
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : 0
+    ================================================================
+  -->
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- etc 카테고리 004: 피코 뜨기 (대표님 정밀 교정 패스: 짧은뜨기 스케일 높이 27px, 바닥선 y=48.5 완벽 안착 마스터 완본) -->
+  <g class="st0">
+    <!-- 상단 가로 사슬 -->
+    <ellipse cx="32" cy="26.5" rx="9" ry="5"/>
+    <!-- 좌측 세로 사슬 -->
+    <ellipse cx="22.5" cy="38.5" rx="4.5" ry="10"/>
+    <!-- 우측 세로 사슬 -->
+    <ellipse cx="41.5" cy="38.5" rx="4.5" ry="10"/>
+  </g>
+</svg>

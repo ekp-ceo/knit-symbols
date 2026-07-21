@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : Y자뜨기
+    - KR_NAME_ABBR     : Y자
+    - JA_NAME_FULL     : Y字編み
+    - JA_NAME_ABBR     : Y字
+    - EN_NAME_US_FULL  : y_stitch
+    - EN_NAME_US_ABBR  : y_st
+    - EN_NAME_UK_FULL  : y_stitch
+    - EN_NAME_UK_ABBR  : y_st
+    - SYMBOL_SHAPE     : y_shape_with_chain_and_slashes
+    - SYMBOL_STYLE     : standard
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : center
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:3
+    - STITCH_HEIGHT    : 3
+    - STITCH_COUNT     : 1
+    - CATEGORY         : etc
+    - Y_OFFSET         : -2
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : -1
+    ================================================================
+  -->
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- etc 카테고리 007: Y자뜨기 (대표님 정밀 교정 패스: 상단 분할 수평선 + 중앙 1코 사슬 타원 + 완벽한 정대칭 Y자 기둥 구조 완본) -->
+  <g class="st0">
+    <line x1="17" y1="17.2" x2="24.6" y2="17.2"/>
+    <line x1="32.1" y1="56" x2="32.1" y2="36.7"/>
+    <line x1="36.5" y1="43.2" x2="27.8" y2="49.6"/>
+    <line x1="32.1" y1="36.7" x2="40.8" y2="17.5"/>
+    <line x1="32.1" y1="36.7" x2="23.4" y2="17.5"/>
+    <line x1="41.5" y1="23.2" x2="34.9" y2="26.3"/>
+    <line x1="29.4" y1="26.2" x2="22.7" y2="23.3"/>
+    <line x1="39.4" y1="17.2" x2="47" y2="17.2"/>
+    <ellipse cx="32.1" cy="17.1" rx="5.4" ry="3.1"/>
+  </g>
+</svg>

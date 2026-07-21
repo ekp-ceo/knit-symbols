@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 짧은뜨기_2코_늘려뜨기
+    - KR_NAME_ABBR     : 짧은2늘려
+    - JA_NAME_FULL     : 細編み2目編み入れる
+    - JA_NAME_ABBR     : 細2増し
+    - EN_NAME_US_FULL  : single_crochet_increase
+    - EN_NAME_US_ABBR  : sc_inc
+    - EN_NAME_UK_FULL  : double_crochet_increase
+    - EN_NAME_UK_ABBR  : dc_inc
+    - SYMBOL_SHAPE     : v_shape
+    - SYMBOL_STYLE     : cross_contained
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 1
+    - STITCH_COUNT     : 2
+    - CATEGORY         : inc
+    - Y_OFFSET         : 0
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : +1
+    ================================================================
+  -->
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <!-- Generator: Adobe Illustrator 29.3.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 146)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- 대표님이 정중앙 바닥선(y=56) 밀착, 가로폭 40px 및 전체 고도 27px(y=29) 완벽한 상하반전 대칭 비례로 재확립하신 짧은뜨기 2코 늘려뜨기 마스터 그래픽 -->
+  <path class="st0" d="M12,31.5l20,24.5,20-24.5"/>
+  <path class="st0" d="M26.4,29l11.1,8.2"/>
+  <path class="st0" d="M37.6,29l-11.1,8.2"/>
+</svg>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 짧은뜨기_3코_모아뜨기
+    - KR_NAME_ABBR     : 짧은3모아
+    - JA_NAME_FULL     : 細編み3目一度
+    - JA_NAME_ABBR     : 細3目一度
+    - EN_NAME_US_FULL  : single_crochet_3_stitch_decrease
+    - EN_NAME_US_ABBR  : sc_3_st_dec
+    - EN_NAME_UK_FULL  : double_crochet_3_stitch_decrease
+    - EN_NAME_UK_ABBR  : dc_3_st_dec
+    - SYMBOL_SHAPE     : trident_inverted_v_shape
+    - SYMBOL_STYLE     : cross_contained
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 1
+    - STITCH_COUNT     : 3
+    - CATEGORY         : dec
+    - Y_OFFSET         : 0
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : -2
+    ================================================================
+  -->
+<svg id="_레이어_1" data-name="레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <!-- Generator: Adobe Illustrator 29.3.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 146)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- 대표님이 바닥선(y=56) 밀착 및 삼지창 형태의 정밀한 X 마크 유격으로 최적화하신 모아뜨기 마스터 그래픽 -->
+  <path class="st0" d="M12,56l20-27,20,27"/>
+  <path class="st0" d="M32,29v14.4"/>
+  <path class="st0" d="M26.5,44.3l10.9,10.8"/>
+  <path class="st0" d="M37.5,44.3l-10.9,10.8"/>
+</svg>

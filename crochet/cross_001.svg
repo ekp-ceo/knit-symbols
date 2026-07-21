@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 긴뜨기_교차뜨기
+    - KR_NAME_ABBR     : 긴뜨기교차
+    - JA_NAME_FULL     : 中長編みの交差編み
+    - JA_NAME_ABBR     : 中長編交差
+    - EN_NAME_US_FULL  : half_double_crochet_cross_stitch
+    - EN_NAME_US_ABBR  : hdc_cross
+    - EN_NAME_UK_FULL  : half_treble_crochet_cross_stitch
+    - EN_NAME_UK_ABBR  : htr_cross
+    - SYMBOL_SHAPE     : pure_x_cross_with_overlapped_gap
+    - SYMBOL_STYLE     : vogue_standard
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : cross_overlapped_right_up_clean_root
+    - STITCH_RATIO     : 2:2
+    - STITCH_HEIGHT    : 2
+    - STITCH_COUNT     : 2
+    - CATEGORY         : cross
+    - Y_OFFSET         : 0
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : 0
+    ================================================================
+  -->
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- 대표님의 카테고리 전환 제안을 반영하여 post에서 cross 전용 데이터셋(cross_001)으로 전면 리인덱싱을 완료하고, 교차뜨기 고유의 기하학적 패스(중앙 Gap 및 상단 정수리 y=14, 바닥선 y=56) 무결성을 완벽하게 통합한 최종 마스터 완본 그래픽 -->
+  <path class="st0" d="M12,14h12"/>
+  <path class="st0" d="M40,14h12"/>
+  <path class="st0" d="M18,56L46,14"/>
+  <path class="st0" d="M46,56l-10.3-15.3"/>
+  <path class="st0" d="M28.2,29.3l-10.3-15.3"/>
+</svg>

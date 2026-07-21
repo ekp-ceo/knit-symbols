@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 한길긴뜨기_2코_늘려뜨기_한_코에서_중간_사슬_2코
+    - KR_NAME_ABBR     : 한길2늘려_코_사슬2
+    - JA_NAME_FULL     : 長編み2目編み入れる_目に_鎖2目
+    - JA_NAME_ABBR     : 長2増し_目_鎖2
+    - EN_NAME_US_FULL  : double_crochet_increase_into_stitch_with_intermediate_chain_2
+    - EN_NAME_US_ABBR  : dc_inc_ch2
+    - EN_NAME_UK_FULL  : treble_crochet_increase_into_stitch_with_intermediate_chain_2
+    - EN_NAME_UK_ABBR  : tr_inc_ch2
+    - SYMBOL_SHAPE     : v_with_separated_t_bars_slashes_and_double_chain+A87:K87
+    - SYMBOL_STYLE     : dc_branched_isolated_double_chain
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:2
+    - STITCH_HEIGHT    : 3
+    - STITCH_COUNT     : 2
+    - CATEGORY         : inc
+    - Y_OFFSET         : 0
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : +3
+    ================================================================
+  -->
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <!-- Generator: Adobe Illustrator 29.3.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 146)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- 대표님이 사슬 2코의 중심 확장 튜닝(26.7 / 37.3) 및 빗금 직교 길이(7.1) 최적화로 가독성과 완성도를 정점까지 끌어올리신 한길긴뜨기 2코 늘려뜨기 최종 마스터 완본 그래픽 -->
+  <path class="st0" d="M17.8,20.5l14.2,35.5,14.2-35.5"/>
+  <path class="st0" d="M12,20.5h11.7"/>
+  <path class="st0" d="M40.3,20.5h11.7"/>
+  <ellipse class="st0" cx="26.7" cy="17.3" rx="5.6" ry="3.1" transform="translate(-3.6 7.4) rotate(-14.8)"/>
+  <ellipse class="st0" cx="37.3" cy="17.3" rx="3.1" ry="5.6" transform="translate(11 49) rotate(-75.2)"/>
+  <path class="st0" d="M20.9,35.1l7.1,4.2"/>
+  <path class="st0" d="M36,39.3l7.1-4.2"/>
+</svg>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 한길긴뜨기_4코_모아뜨기
+    - KR_NAME_ABBR     : 한길4모아
+    - JA_NAME_FULL     : 長編み4目一度
+    - JA_NAME_ABBR     : 長4目一度
+    - EN_NAME_US_FULL  : double_crochet_4_stitch_decrease
+    - EN_NAME_US_ABBR  : dc_4_st_dec
+    - EN_NAME_UK_FULL  : treble_crochet_4_stitch_decrease
+    - EN_NAME_UK_ABBR  : tr_4_st_dec
+    - SYMBOL_SHAPE     : 4_branched_inverted_fan_with_top_bar_and_slashes
+    - SYMBOL_STYLE     : dc_4_together_isolated
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:3
+    - STITCH_HEIGHT    : 3
+    - STITCH_COUNT     : 4
+    - CATEGORY         : dec
+    - Y_OFFSET         : 0
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : -3
+    ================================================================
+  -->
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <!-- Generator: Adobe Illustrator 29.3.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 146)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- 대표님이 내측 바닥선(y=56) 밀착, 전체 고도 42px(y=14) 황금 아치 균형 및 개별 빗금 직교 최적화로 완벽하게 재확립하신 한길긴뜨기 4코 모아뜨기 마스터 그래픽 -->
+  <path class="st0" d="M20.2,14h23.6"/>
+  <g>
+    <path class="st0" d="M32,14l20,36.3"/>
+    <path class="st0" d="M42,40.3l8.7-.5"/>
+  </g>
+  <g>
+    <path class="st0" d="M32,14l7.2,42"/>
+    <path class="st0" d="M33.1,42.6l8.2,3.1"/>
+  </g>
+  <g>
+    <path class="st0" d="M32,14l-7.2,42"/>
+    <path class="st0" d="M23.5,41l6.6,6.4"/>
+  </g>
+  <g>
+    <path class="st0" d="M32,14L12,50.3"/>
+    <path class="st0" d="M15.5,35.8l4.2,8.6"/>
+  </g>
+</svg>

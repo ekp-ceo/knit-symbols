@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 한길긴뜨기_3코_모아뜨기
+    - KR_NAME_ABBR     : 한길3모아
+    - JA_NAME_FULL     : 長編み3目一度
+    - JA_NAME_ABBR     : 長3目一度
+    - EN_NAME_US_FULL  : double_crochet_3_stitch_decrease
+    - EN_NAME_US_ABBR  : dc_3_st_dec
+    - EN_NAME_UK_FULL  : treble_crochet_3_stitch_decrease
+    - EN_NAME_UK_ABBR  : tr_3_st_dec
+    - SYMBOL_SHAPE     : trident_inverted_v_shape_with_top_bar_and_slashes
+    - SYMBOL_STYLE     : dc_3_together_isolated
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:3
+    - STITCH_HEIGHT    : 3
+    - STITCH_COUNT     : 3
+    - CATEGORY         : dec
+    - Y_OFFSET         : 0
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : -2
+    ================================================================
+  -->
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <!-- Generator: Adobe Illustrator 29.3.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 146)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- 대표님이 중앙 바닥선(y=56) 밀착, 양끝 아치 균형 및 개별 빗금 직교 최적화로 재확립하신 한길긴뜨기 3코 모아뜨기 마스터 완본 그래픽 -->
+  <path class="st0" d="M21.1,14h21.8"/>
+  <path class="st0" d="M32,14l20,34.4"/>
+  <path class="st0" d="M42.4,39.2l8-.9"/>
+  <path class="st0" d="M32,14v42"/>
+  <path class="st0" d="M28.5,41.8l7,4.7"/>
+  <path class="st0" d="M32,14L12,48.4"/>
+  <path class="st0" d="M14.2,35.6l6.9,6.3"/>
+</svg>

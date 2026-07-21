@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 한길긴뜨기_5코_늘려뜨기_한_코에서
+    - KR_NAME_ABBR     : 한길5늘려_코
+    - JA_NAME_FULL     : 長編み5目編み入れる_目に
+    - JA_NAME_ABBR     : 長5目入れ_目
+    - EN_NAME_US_FULL  : double_crochet_5_stitch_increase_into_stitch
+    - EN_NAME_US_ABBR  : dc_5_st_inc
+    - EN_NAME_UK_FULL  : treble_crochet_5_stitch_increase_into_stitch
+    - EN_NAME_UK_ABBR  : tr_5_st_inc
+    - SYMBOL_SHAPE     : 5_perfect_balanced_rotated_basic_dc_bars_converging_at_bottom
+    - SYMBOL_STYLE     : dc_5_branched_isolated
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:3
+    - STITCH_HEIGHT    : 3
+    - STITCH_COUNT     : 5
+    - CATEGORY         : inc
+    - Y_OFFSET         : 0
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : +4
+    ================================================================
+  -->
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- 대표님이 바닥선(y=56) 밀착, 절대 패스로 변환된 5선 분기 기둥의 좌우 정밀 대칭 격자와 1.5px 상향 튜닝된 수평 정렬 사선 빗금의 비례를 완벽하게 구현하신 한길긴뜨기 5코 늘려뜨기 마스터 완본 그래픽 -->
+  <path class="st0" d="M14.3,22.7l17.7,33.3"/>
+  <path class="st0" d="M12,25.4l4.5-5.4"/>
+  <path class="st0" d="M15.8,32.3l5.6-1.1"/>
+  <path class="st0" d="M22.5,16.3l9.5,39.7"/>
+  <path class="st0" d="M20,17.7l5-2.9"/>
+  <path class="st0" d="M21.6,26.6l5.5,1.5"/>
+  <path class="st0" d="M32,14v42"/>
+  <path class="st0" d="M29.2,14h5.5"/>
+  <path class="st0" d="M29.5,23.7l4.9,4"/>
+  <path class="st0" d="M41.5,16.3l-9.5,39.7"/>
+  <path class="st0" d="M39,14.8l5,2.9"/>
+  <path class="st0" d="M36.7,23.3l3.7,6.1"/>
+  <path class="st0" d="M49.7,22.7l-17.7,33.3"/>
+  <path class="st0" d="M47.5,20l4.5,5.4"/>
+  <path class="st0" d="M44.3,27l2.2,7.5"/>
+</svg>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 되돌아_짧은뜨기
+    - KR_NAME_ABBR     : 되돌아짧
+    - JA_NAME_FULL     : 逆細編み_細編みのバック編み
+    - JA_NAME_ABBR     : 逆細
+    - EN_NAME_US_FULL  : reverse_single_crochet
+    - EN_NAME_US_ABBR  : rev_sc
+    - EN_NAME_UK_FULL  : reverse_double_crochet
+    - EN_NAME_UK_ABBR  : rev_dc
+    - SYMBOL_SHAPE     : cross_with_wave
+    - SYMBOL_STYLE     : standard
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : right_to_left
+    - SYMBOL_MODIFIER  : reverse
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 1
+    - STITCH_COUNT     : 1
+    - CATEGORY         : etc
+    - Y_OFFSET         : -2
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : 0
+    ================================================================
+  -->
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- etc 카테고리 008: 되돌아 짧은뜨기 (대표님 정밀 교정 패스: 시원한 20px ✕ 기호와 상단 물결표의 여유로운 고도 결합 완본) -->
+  <g class="st0">
+    <path d="M22,23.4c2.5-3.1,6.5-3.1,10,0s7.5,3.1,10,0"/>
+    <line x1="22" y1="31" x2="42" y2="49"/>
+    <line x1="42" y1="31" x2="22" y2="49"/>
+  </g>
+</svg>

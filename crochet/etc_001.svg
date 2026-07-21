@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 짧은뜨기_링뜨기
+    - KR_NAME_ABBR     : 짧은링
+    - JA_NAME_FULL     : 細編みのリング編み
+    - JA_NAME_ABBR     : 細リング
+    - EN_NAME_US_FULL  : single_crochet_loop_stitch
+    - EN_NAME_US_ABBR  : sc_loop
+    - EN_NAME_UK_FULL  : double_crochet_loop_stitch
+    - EN_NAME_UK_ABBR  : dc_loop
+    - SYMBOL_SHAPE     : cross_with_loop
+    - SYMBOL_STYLE     : standard
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : center
+    - SYMBOL_MODIFIER  : loop
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 1
+    - STITCH_COUNT     : 1
+    - CATEGORY         : etc
+    - Y_OFFSET         : -2
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : 0
+    ================================================================
+  -->
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- etc 카테고리 001: 짧은뜨기 링뜨기 (대표님 정밀 교정 패스: ✕ 기호와 넓어진 U자형 링 고리의 완벽한 바닥선 y=46.6 안착 완본) -->
+  <g class="st0">
+    <line x1="25.5" y1="23.4" x2="38.5" y2="36.4"/>
+    <line x1="38.5" y1="23.4" x2="25.5" y2="36.4"/>
+    <path d="M18,25.6c0,11.6,6.3,21,14,21s14-9.4,14-21"/>
+  </g>
+</svg>
