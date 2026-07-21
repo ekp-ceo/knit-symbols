@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 짧은뜨기_2코_모아_이랑뜨기
+    - KR_NAME_ABBR     : 짧은2코모아이랑
+    - JA_NAME_FULL     : 細編み2目一度の畝編み_すじ編み
+    - JA_NAME_ABBR     : 細編2目一度畝編み
+    - EN_NAME_US_FULL  : single_crochet_2_stitch_decrease_back_loop_only
+    - EN_NAME_US_ABBR  : sc_2_st_dec_blo
+    - EN_NAME_UK_FULL  : double_crochet_2_stitch_decrease_back_loop_only
+    - EN_NAME_UK_ABBR  : dc_2_st_dec_blo
+    - SYMBOL_SHAPE     : inverted_v_shape_cross_mark_with_bottom_flat_rib_bar
+    - SYMBOL_STYLE     : ribbed_decrease_vogue_standard
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : flat_rib_bar
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 1
+    - STITCH_COUNT     : 2
+    - CATEGORY         : rib
+    - Y_OFFSET         : 0
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : -1
+    ================================================================
+  -->
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4.2px;
+      }
+    </style>
+  </defs>
+  <!-- rib 전용 데이터셋 마스터 규격을 완벽히 성립하고, 짧은뜨기 2코 모아뜨기의 A자 상단 수렴점(y=29, x=32)과 바닥선(y=56)의 와이드 40px 이랑 바 받침대 레이아웃 비례를 무결하게 사수한 최종 마스터 완본 그래픽 -->
+  <path class="st0" d="M18.2,47.6l13.8-18.6"/>
+  <path class="st0" d="M45.8,47.6l-13.8-18.6"/>
+  <path class="st0" d="M12,56h40"/>
+</svg>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 한길_긴뜨기_앞걸어_3코_모아뜨기
+    - KR_NAME_ABBR     : 한길앞걸어3코모아
+    - JA_NAME_FULL     : 長編みの表引き上げ3目一度
+    - JA_NAME_ABBR     : 長編表引3目一度
+    - EN_NAME_US_FULL  : front_post_double_crochet_3_together
+    - EN_NAME_US_ABBR  : fpdc3tog
+    - EN_NAME_UK_FULL  : front_post_treble_crochet_3_together
+    - EN_NAME_UK_ABBR  : fptr3tog
+    - SYMBOL_SHAPE     : inverted_trident_stem_80pct_with_balanced_slashes
+    - SYMBOL_STYLE     : post_stitch_vogue_standard
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : front_post_hook_triple_root
+    - STITCH_RATIO     : 3:3
+    - STITCH_HEIGHT    : 3
+    - STITCH_COUNT     : 3
+    - CATEGORY         : post
+    - Y_OFFSET         : 0
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : -2
+    ================================================================
+  -->
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- 대표님이 사수하신 하단 8px 마진선(y=56) 안착 스펙을 100% 반영하고, 뒤집힌 삼지창 기둥과 3중 사선 빗금, 그리고 하단 독립형 트리플 앞걸어 훅의 레이어 순서를 정형화 포맷으로 완벽히 최적화한 최종 마스터 완본 그래픽 -->
+  <path class="st0" d="M21.8,14h20"/>
+  <path class="st0" d="M16.6,39.2l15.2-25.2"/>
+  <path class="st0" d="M31.8,39.2V14"/>
+  <path class="st0" d="M47,39.2l-15.2-25.2"/>
+  <path class="st0" d="M19.2,31.2l5.6-2"/>
+  <path class="st0" d="M29.1,31.2l5.6-2"/>
+  <path class="st0" d="M39.1,29.2l5.6,2"/>
+  <path class="st0" d="M16.6,39.2v1.6c0,1.6,3.5,1.6,4.6,4.2,1.1,4.2,0,11-4.6,11s-4.6-6.8-4.6-6.8"/>
+  <path class="st0" d="M31.8,39.2v1.6c0,1.6,3.5,1.6,4.6,4.2,1.1,4.2,0,11-4.6,11s-4.6-6.8-4.6-6.8"/>
+  <path class="st0" d="M47,39.2v1.6c0,1.6,3.5,1.6,4.6,4.2,1.1,4.2,0,11-4.6,11s-4.6-6.8-4.6-6.8"/>
+</svg>

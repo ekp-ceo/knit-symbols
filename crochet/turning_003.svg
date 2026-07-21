@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 기둥코_3코
+    - KR_NAME_ABBR     : 기둥3
+    - JA_NAME_FULL     : 立ち上がりの鎖目3目
+    - JA_NAME_ABBR     : 立ち3
+    - EN_NAME_US_FULL  : turning_chain_3_stitches
+    - EN_NAME_US_ABBR  : tch_3
+    - EN_NAME_UK_FULL  : turning_chain_3_stitches
+    - EN_NAME_UK_ABBR  : tch_3
+    - SYMBOL_SHAPE     : chain_vertical
+    - SYMBOL_STYLE     : 3_ovals
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : center
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 3
+    - STITCH_COUNT     : 1
+    - CATEGORY         : turning
+    - Y_OFFSET         : -2
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : 0
+    ================================================================
+  -->
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- turning 전용 데이터셋 마스터 규격을 완벽히 성립하고, 개별 타원(ry=9)의 정밀 접점(y=23, y=41)을 사수하여 선 겹침 없이 완벽하게 수직 정렬된 기둥코 3코 마스터 완본 그래픽 -->
+  <g class="st0">
+    <!-- 맨 위 사슬 (3번 코: cy=14) -->
+    <ellipse cx="32" cy="14" rx="5.5" ry="9"/>
+    <!-- 가운데 사슬 (2번 코: cy=32) -->
+    <ellipse cx="32" cy="32" rx="5.5" ry="9"/>
+    <!-- 맨 아래 사슬 (1번 코: cy=50) -->
+    <ellipse cx="32" cy="50" rx="5.5" ry="9"/>
+  </g>
+</svg>

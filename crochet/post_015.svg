@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 한길_긴뜨기_앞걸어_2코_모아뜨기
+    - KR_NAME_ABBR     : 한길앞걸어2코모아
+    - JA_NAME_FULL     : 長編みの表引き上げ2目一度
+    - JA_NAME_ABBR     : 長編表引2目一度
+    - EN_NAME_US_FULL  : front_post_double_crochet_2_together
+    - EN_NAME_US_ABBR  : fpdc2tog
+    - EN_NAME_UK_FULL  : front_post_treble_crochet_2_together
+    - EN_NAME_UK_ABBR  : fptr2tog
+    - SYMBOL_SHAPE     : inverted_v_stem_with_isolated_dual_front_post_hooks
+    - SYMBOL_STYLE     : post_stitch_vogue_standard
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : front_post_hook_dual_root
+    - STITCH_RATIO     : 2:3
+    - STITCH_HEIGHT    : 3
+    - STITCH_COUNT     : 2
+    - CATEGORY         : post
+    - Y_OFFSET         : 0
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : -1
+    ================================================================
+  -->
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- 대표님이 사수하신 바닥선(y=56) 안착 궤적을 고스란히 이식하고, 일러스트레이터 튜닝 기반의 Λ자형 정수리 수렴 고도(y=14) 및 독립된 2개의 하단 앞걸어 훅의 완벽한 좌우 대칭 평형 밸런스를 수호한 한길긴뜨기 앞걸어 2코 모아뜨기 최종 마스터 완본 그래픽 -->
+  <path class="st0" d="M21.6,14h20"/>
+  <path class="st0" d="M20.3,36.9l11.4-22.9"/>
+  <path class="st0" d="M43,36.9l-11.4-22.9"/>
+  <path class="st0" d="M22.2,28.2l5.8-2.4"/>
+  <path class="st0" d="M35.3,25.8l5.8,2.4"/>
+  <path class="st0" d="M20.3,36.9v1.9c0,1.9,6.2,1.9,8.3,4.8,2.1,4.8,0,12.4-8.3,12.4s-8.3-7.6-8.3-7.6"/>
+  <path class="st0" d="M43,36.9v1.9c0,1.9,6.2,1.9,8.3,4.8,2.1,4.8,0,12.4-8.3,12.4s-8.3-7.6-8.3-7.6"/>
+</svg>

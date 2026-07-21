@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 짧은뜨기_이랑뜨기
+    - KR_NAME_ABBR     : 짧은이랑
+    - JA_NAME_FULL     : 細編みの畝編み_すじ編み
+    - JA_NAME_ABBR     : 細編み畝編み
+    - EN_NAME_US_FULL  : single_crochet_back_loop_only
+    - EN_NAME_US_ABBR  : sc_blo
+    - EN_NAME_UK_FULL  : double_crochet_back_loop_only
+    - EN_NAME_UK_ABBR  : dc_blo
+    - SYMBOL_SHAPE     : cross_mark_with_bottom_flat_rib_bar
+    - SYMBOL_STYLE     : ribbed_vogue_standard
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : flat_rib_bar
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 1
+    - STITCH_COUNT     : 1
+    - CATEGORY         : rib
+    - Y_OFFSET         : 0
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : 0
+    ================================================================
+  -->
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- 대표님이 사수하신 완벽한 짧은뜨기 이랑 격자 수치(정수리 y=20, 몸통 하단 y=40, 이랑 바 y=50)를 100% 이식하고, 타 기호군 배치 시 수평 정렬 오류가 없도록 무결성을 완전 수호한 최종 마스터 완본 그래픽 -->
+  <path class="st0" d="M22,20l20,20"/>
+  <path class="st0" d="M42,20l-20,20"/>
+  <path class="st0" d="M18,50h28"/>
+</svg>

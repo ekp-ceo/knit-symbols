@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 두길_긴뜨기_2코_넣는_이랑뜨기_한_코에서
+    - KR_NAME_ABBR     : 두길2코넣는이랑
+    - JA_NAME_FULL     : 長々編み2目編み入れる畝編み_すじ編み
+    - JA_NAME_ABBR     : 長々2目入れる畝編み
+    - EN_NAME_US_FULL  : treble_crochet_2_stitch_increase_back_loop_only
+    - EN_NAME_US_ABBR  : tr_2_st_inc_blo
+    - EN_NAME_UK_FULL  : double_treble_crochet_2_stitch_increase_back_loop_only
+    - EN_NAME_UK_ABBR  : dtr_2_st_inc_blo
+    - SYMBOL_SHAPE     : v_shape_separated_t_marks_with_staggered_double_slashes_and_bottom_flat_rib_bar
+    - SYMBOL_STYLE     : ribbed_increase_vogue_standard
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : flat_rib_bar
+    - STITCH_RATIO     : 1:4
+    - STITCH_HEIGHT    : 4
+    - STITCH_COUNT     : 2
+    - CATEGORY         : rib
+    - Y_OFFSET         : 0
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : +1
+    ================================================================
+  -->
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- rib 전용 데이터셋 마스터 규격을 완벽히 성립하고, 일러스트레이터로 정교하게 가공한 두길 늘림 격자(y=14~56) 프레임 위 좌우 스템별 이중 평행 사선 빗금(총 4개)을 8.4px 황금 등간격 및 완벽한 좌우 데칼코마니 대칭 비례로 사수한 최종 마스터 완본 그래픽 -->
+  <path class="st0" d="M22,14h5.4"/>
+  <path class="st0" d="M24.7,14l7.3,32.3"/>
+  <path class="st0" d="M23.5,19.2l4.4,3.1"/>
+  <path class="st0" d="M25.4,27.6l4.4,3.1"/>
+  <path class="st0" d="M36.6,14h5.4"/>
+  <path class="st0" d="M39.3,14l-7.3,32.3"/>
+  <path class="st0" d="M36.6,22.4l3.6-2"/>
+  <path class="st0" d="M34.6,30.8l3.6-2"/>
+  <path class="st0" d="M18,56h28"/>
+</svg>

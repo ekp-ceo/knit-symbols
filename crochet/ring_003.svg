@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 원형_사슬_8코
+    - KR_NAME_ABBR     : 원형사슬_8
+    - JA_NAME_FULL     : 鎖の輪作り目8目
+    - JA_NAME_ABBR     : 鎖輪8
+    - EN_NAME_US_FULL  : chain_ring_8_stitches
+    - EN_NAME_US_ABBR  : ch_ring_8
+    - EN_NAME_UK_FULL  : chain_ring_8_stitches
+    - EN_NAME_UK_ABBR  : ch_ring_8
+    - SYMBOL_SHAPE     : ring_chains
+    - SYMBOL_STYLE     : 8_stitches
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : center
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 1
+    - STITCH_COUNT     : 8
+    - CATEGORY         : ring
+    - Y_OFFSET         : -16
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : +8
+    ================================================================
+  -->
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- ring 전용 데이터셋 마스터 규격을 완벽히 성립하고, ring_001/002 스펙과 완벽 동기화된 38.8x38.8px 외경 비례(y=13~51) 및 캔버스 정중앙(32, 32) 앵커 기반 45도 정밀 회전 원형 사슬 8코 마스터 완본 그래픽 -->
+  <g>
+    <ellipse class="st0" cx="32" cy="16.3" rx="6.6" ry="3.3"/>
+    <ellipse class="st0" cx="43.1" cy="20.9" rx="3.3" ry="6.6" transform="translate(-2.2 36.6) rotate(-45)"/>
+    <ellipse class="st0" cx="47.7" cy="32" rx="3.3" ry="6.6"/>
+    <ellipse class="st0" cx="43.1" cy="43.1" rx="6.6" ry="3.3" transform="translate(-17.9 43.1) rotate(-45)"/>
+    <ellipse class="st0" cx="32" cy="47.7" rx="6.6" ry="3.3"/>
+    <ellipse class="st0" cx="20.9" cy="43.1" rx="3.3" ry="6.6" transform="translate(-24.4 27.4) rotate(-45)"/>
+    <ellipse class="st0" cx="16.3" cy="32" rx="3.3" ry="6.6"/>
+    <ellipse class="st0" cx="20.9" cy="20.9" rx="6.6" ry="3.3" transform="translate(-8.7 20.9) rotate(-45)"/>
+  </g>
+</svg>

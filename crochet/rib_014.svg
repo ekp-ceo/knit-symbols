@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 세길_긴뜨기_2코_모아_이랑뜨기
+    - KR_NAME_ABBR     : 세길2코모아이랑
+    - JA_NAME_FULL     : 長々々編み2目一度の畝編み_すじ編み
+    - JA_NAME_ABBR     : 長々々2目一度畝編み
+    - EN_NAME_US_FULL  : double_treble_crochet_2_stitch_decrease_back_loop_only
+    - EN_NAME_US_ABBR  : dtr_2_st_dec_blo
+    - EN_NAME_UK_FULL  : triple_treble_crochet_2_stitch_decrease_back_loop_only
+    - EN_NAME_UK_ABBR  : trtr_2_st_dec_blo
+    - SYMBOL_SHAPE     : inverted_v_shape_cross_marks_with_staggered_triple_slashes_and_bottom_flat_rib_bar
+    - SYMBOL_STYLE     : ribbed_decrease_vogue_standard
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : flat_rib_bar
+    - STITCH_RATIO     : 1:5
+    - STITCH_HEIGHT    : 5
+    - STITCH_COUNT     : 2
+    - CATEGORY         : rib
+    - Y_OFFSET         : 0
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : -1
+    ================================================================
+  -->
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- rib 전용 데이터셋 마스터 규격을 완벽히 성립하고, 일러스트레이터 파편화 패스를 단일화 최적화하여 세길 2코 모아뜨기의 A자 스템(y=15~47.8) 및 스템별 3중 평행 빗금(6.9px 등간격, 총 6개)과 바닥 이랑 바(y=55)의 비례를 정밀 수호한 최종 마스터 완본 그래픽 -->
+  <path class="st0" d="M22.4,47.8l9.6-32.8"/>
+  <path class="st0" d="M41.6,47.8l-9.6-32.8"/>
+  <path class="st0" d="M24.6,29.6l5.2-3.8"/>
+  <path class="st0" d="M23.2,36.5l5.2-3.8"/>
+  <path class="st0" d="M21.9,43.4l5.2-3.8"/>
+  <path class="st0" d="M34.2,25.9l5.2,3.8"/>
+  <path class="st0" d="M35.5,32.8l5.2,3.8"/>
+  <path class="st0" d="M36.8,39.6l5.2,3.8"/>
+  <path class="st0" d="M18,55h28"/>
+</svg>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 짧은뜨기_뒤걸어뜨기
+    - KR_NAME_ABBR     : 짧은뒤걸어
+    - JA_NAME_FULL     : 細編みの裏引き上げ編み
+    - JA_NAME_ABBR     : 細編裏引き上げ
+    - EN_NAME_US_FULL  : back_post_single_crochet
+    - EN_NAME_US_ABBR  : bpsc
+    - EN_NAME_UK_FULL  : back_post_double_crochet
+    - EN_NAME_UK_ABBR  : bpdc
+    - SYMBOL_SHAPE     : cross_bar_with_centered_loop_back_post_hook
+    - SYMBOL_STYLE     : post_stitch_vogue_standard
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : back_post_hook
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 1
+    - STITCH_COUNT     : 1
+    - CATEGORY         : post
+    - Y_OFFSET         : 0
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : 0
+    ================================================================
+  -->
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- 짧은뜨기 고유의 십자 교차를 표현하기 위해 가로 바를 중앙 고도(y=22.4)에 위치시키고, 하단 뒤걸어뜨기 훅의 방향성을 좌측으로 정확히 미러링하여 마스터 바닥선(y=56)에 정밀 안착시킨 최종 완성본 그래픽 -->
+  <path class="st0" d="M22,22.4h20"/>
+  <path class="st0" d="M32,14v21c0,2.1-6,2.1-8,5.2-3,5.2-1,15.8,8,15.8s9-10.5,9-10.5"/>
+</svg>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 원형코
+    - KR_NAME_ABBR     : 원형코
+    - JA_NAME_FULL     : 輪の作り目
+    - JA_NAME_ABBR     : 輪
+    - EN_NAME_US_FULL  : magic_ring
+    - EN_NAME_US_ABBR  : mr
+    - EN_NAME_UK_FULL  : magic_ring
+    - EN_NAME_UK_ABBR  : mr
+    - SYMBOL_SHAPE     : spiral
+    - SYMBOL_STYLE     : open
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : center
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 0
+    - STITCH_COUNT     : 1
+    - CATEGORY         : ring
+    - Y_OFFSET         : -16
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : 0
+    ================================================================
+  -->
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- ring 전용 데이터셋 마스터 규격을 완벽히 성립하고, 일러스트레이터 베지어 곡선으로 정교하게 가공한 38x38px 완전 정원형 비례(x=12.9~51, y=13~51) 및 캔버스 중심(32, 32) 정대칭 앵커를 완벽 수호한 최종 마스터 완본 그래픽 -->
+  <path class="st0" d="M25.7,31.5c0-3.4,2.8-6.2,6.3-6.2s6.3,2.8,6.3,6.2c0,6.8-5.7,12.3-12.7,12.3s-12.7-5.5-12.7-12.3c0-10.2,8.5-18.5,19-18.5s19,8.3,19,18.5c-.6,8.1-5.4,15.5-12.7,19.5"/>
+</svg>

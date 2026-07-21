@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 한길_긴뜨기_뒤걸어_3코_모아뜨기
+    - KR_NAME_ABBR     : 한길뒤걸어3코모아
+    - JA_NAME_FULL     : 長編みの裏引き上げ3目一度
+    - JA_NAME_ABBR     : 長編裏引3目一度
+    - EN_NAME_US_FULL  : back_post_double_crochet_3_together
+    - EN_NAME_US_ABBR  : bpdc3tog
+    - EN_NAME_UK_FULL  : back_post_treble_crochet_3_together
+    - EN_NAME_UK_ABBR  : bptr3tog
+    - SYMBOL_SHAPE     : inverted_trident_stem_80pct_with_balanced_slashes_and_three_back_hooks
+    - SYMBOL_STYLE     : post_stitch_vogue_standard
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : back_post_hook_triple_root
+    - STITCH_RATIO     : 3:3
+    - STITCH_HEIGHT    : 3
+    - STITCH_COUNT     : 3
+    - CATEGORY         : post
+    - Y_OFFSET         : 0
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : -2
+    ================================================================
+  -->
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- 대표님의 일러스트레이터 수정본 패스 좌표를 100% 무결성 결합하고, AI 학습 정형화 표준 주석 데이터를 통합 완료한 한길긴뜨기 뒤걸어 3코 모아뜨기 최종 마스터 완본 그래픽 -->
+  <path class="st0" d="M22.4,14h20"/>
+  <path class="st0" d="M17,39.2l15.3-25.2"/>
+  <path class="st0" d="M32.4,39.2V14"/>
+  <path class="st0" d="M47.7,39.2l-15.3-25.2"/>
+  <path class="st0" d="M29.4,31.1l5.9-3"/>
+  <path class="st0" d="M17,39.2v1.6c0,1.6-3.6,1.6-4.6,4.2-1.1,4.2,0,11,4.6,11s4.6-6.8,4.6-6.8"/>
+  <path class="st0" d="M32.4,39.2v1.6c0,1.6-3.6,1.6-4.6,4.2-1.1,4.2,0,11,4.6,11s4.6-6.8,4.6-6.8"/>
+  <path class="st0" d="M47.7,39.2v1.6c0,1.6-3.6,1.6-4.3,4.2-1.1,4.2,0,11,4.3,11s4.3-6.8,4.3-6.8"/>
+  <path class="st0" d="M38.8,31l5.9-3"/>
+  <path class="st0" d="M19.8,31l5.9-3"/>
+</svg>

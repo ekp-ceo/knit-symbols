@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 원형_사슬_10코
+    - KR_NAME_ABBR     : 원형사슬_10
+    - JA_NAME_FULL     : 鎖の輪作り目10目
+    - JA_NAME_ABBR     : 鎖輪10
+    - EN_NAME_US_FULL  : chain_ring_10_stitches
+    - EN_NAME_US_ABBR  : ch_ring_10
+    - EN_NAME_UK_FULL  : chain_ring_10_stitches
+    - EN_NAME_UK_ABBR  : ch_ring_10
+    - SYMBOL_SHAPE     : ring_chains
+    - SYMBOL_STYLE     : 10_stitches
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : center
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 1
+    - STITCH_COUNT     : 10
+    - CATEGORY         : ring
+    - Y_OFFSET         : -16
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : +10
+    ================================================================
+  -->
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- ring 전용 데이터셋 마스터 규격을 완벽히 성립하고, ring_001~003 스펙과 완벽 동기화된 38.8x38.8px 외경 비례(y=13~51) 및 캔버스 정중앙(32, 32) 앵커 기반 36도 정밀 회전 원형 사슬 10코 마스터 완본 그래픽 -->
+  <g>
+    <ellipse class="st0" cx="32" cy="15.6" rx="5.4" ry="2.6"/>
+    <ellipse class="st0" cx="41.9" cy="18.7" rx="2.6" ry="5.4" transform="translate(2.5 42.3) rotate(-55)"/>
+    <ellipse class="st0" cx="47.9" cy="26.9" rx="2.7" ry="5.3" transform="translate(-6.1 16.8) rotate(-18.7)"/>
+    <ellipse class="st0" cx="47.9" cy="37.1" rx="5.3" ry="2.7" transform="translate(-2.5 70.6) rotate(-71.3)"/>
+    <ellipse class="st0" cx="41.9" cy="45.3" rx="5.4" ry="2.6" transform="translate(-18.4 32.2) rotate(-35)"/>
+    <ellipse class="st0" cx="32" cy="48.4" rx="5.4" ry="2.6"/>
+    <ellipse class="st0" cx="22.1" cy="45.3" rx="2.6" ry="5.4" transform="translate(-27.6 37.5) rotate(-55)"/>
+    <ellipse class="st0" cx="16.1" cy="37.1" rx="2.7" ry="5.3" transform="translate(-11 7.1) rotate(-18.7)"/>
+    <ellipse class="st0" cx="16.1" cy="26.9" rx="5.3" ry="2.7" transform="translate(-14.6 33.5) rotate(-71.3)"/>
+    <ellipse class="st0" cx="22.1" cy="18.7" rx="5.4" ry="2.6" transform="translate(-6.7 16.1) rotate(-35)"/>
+  </g>
+</svg>

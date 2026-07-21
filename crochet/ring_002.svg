@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 원형_사슬_6코
+    - KR_NAME_ABBR     : 원형사슬_6
+    - JA_NAME_FULL     : 鎖の輪作り目6目
+    - JA_NAME_ABBR     : 鎖輪6
+    - EN_NAME_US_FULL  : chain_ring_6_stitches
+    - EN_NAME_US_ABBR  : ch_ring_6
+    - EN_NAME_UK_FULL  : chain_ring_6_stitches
+    - EN_NAME_UK_ABBR  : ch_ring_6
+    - SYMBOL_SHAPE     : ring_chains
+    - SYMBOL_STYLE     : 6_stitches
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : center
+    - SYMBOL_MODIFIER  : none
+    - STITCH_RATIO     : 1:1
+    - STITCH_HEIGHT    : 1
+    - STITCH_COUNT     : 6
+    - CATEGORY         : ring
+    - Y_OFFSET         : -16
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : +6
+    ================================================================
+  -->
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- ring 전용 데이터셋 마스터 규격을 완벽히 성립하고, ring_001 스펙과 완벽 동기화된 38x38px 외경 비례(y=13~51) 및 캔버스 정중앙(32, 32) 앵커 기반 60도 정밀 회전 원형 사슬 6코 마스터 완본 그래픽 -->
+  <g>
+    <ellipse class="st0" cx="32" cy="16.6" rx="7.6" ry="3.6"/>
+    <ellipse class="st0" cx="46" cy="24.3" rx="3.7" ry="7.3" transform="translate(-5.9 28.1) rotate(-32.1)"/>
+    <ellipse class="st0" cx="46" cy="39.7" rx="7.3" ry="3.7" transform="translate(-12.1 57.6) rotate(-57.9)"/>
+    <ellipse class="st0" cx="32" cy="47.4" rx="7.6" ry="3.6"/>
+    <ellipse class="st0" cx="18" cy="39.7" rx="3.7" ry="7.3" transform="translate(-18.3 15.6) rotate(-32.1)"/>
+    <ellipse class="st0" cx="18" cy="24.3" rx="7.3" ry="3.7" transform="translate(-12.1 26.7) rotate(-57.9)"/>
+  </g>
+</svg>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 한길_긴뜨기_뒤걸어_2코_늘려뜨기
+    - KR_NAME_ABBR     : 한길뒤걸어2코늘려
+    - JA_NAME_FULL     : 長編みの裏引き上げ2目編み入れる
+    - JA_NAME_ABBR     : 長編裏引2目編入
+    - EN_NAME_US_FULL  : 2_dc_increase_back_post
+    - EN_NAME_US_ABBR  : bpsc_inc
+    - EN_NAME_UK_FULL  : 2_tr_increase_back_post
+    - EN_NAME_UK_ABBR  : bpdc_inc
+    - SYMBOL_SHAPE     : v_stem_with_inward_slashes_and_single_centered_back_post_hook
+    - SYMBOL_STYLE     : post_stitch_vogue_standard
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : back_post_hook_single_root
+    - STITCH_RATIO     : 2:3
+    - STITCH_HEIGHT    : 3
+    - STITCH_COUNT     : 2
+    - CATEGORY         : post
+    - Y_OFFSET         : 0
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : +1
+    ================================================================
+  -->
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4.5px;
+      }
+    </style>
+  </defs>
+  <!-- 대표님이 사수하신 가로 폭 40px 영역대 컴팩트 비례와 바닥선(y=56) 안착 궤적을 고스란히 이식하고, 일러스트레이터 튜닝 기반의 V자형 기둥 수렴 고도(y=34) 및 완벽하게 좌향으로 미러링된 뒤걸어 훅 균형을 사수한 한길긴뜨기 뒤걸어 2코 늘려뜨기 최종 마스터 완본 그래픽 -->
+  <path class="st0" d="M12,14h14.1"/>
+  <path class="st0" d="M37.9,14h14.1"/>
+  <path class="st0" d="M19.1,14l12.9,20"/>
+  <path class="st0" d="M44.9,14l-12.9,20"/>
+  <path class="st0" d="M21.6,25l6.6-2.5"/>
+  <path class="st0" d="M35.8,22.5l6.6,2.5"/>
+  <path class="st0" d="M32,34v2c0,2-6.6,2-8.7,5-3.3,5-1.1,15,8.7,15s9.8-10,9.8-10"/>
+</svg>

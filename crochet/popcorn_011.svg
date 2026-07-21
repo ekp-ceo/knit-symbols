@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 두길_긴뜨기_4코_팝콘뜨기_한_코에서
+    - KR_NAME_ABBR     : 두길4팝콘
+    - JA_NAME_FULL     : 長々編み4目のポップコーン編み
+    - JA_NAME_ABBR     : 長々4目ポップコーン
+    - EN_NAME_US_FULL  : treble_crochet_4_stitch_popcorn
+    - EN_NAME_US_ABBR  : tr_4_st_popcorn
+    - EN_NAME_UK_FULL  : double_treble_crochet_4_stitch_popcorn
+    - EN_NAME_UK_ABBR  : dtr_4_st_popcorn
+    - SYMBOL_SHAPE     : flat_oval_top_ring_with_outer_shell_enclosing_2_inner_curves_with_double_slashes
+    - SYMBOL_STYLE     : tr_4_popcorn_isolated
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : popcorn_top_ring
+    - STITCH_RATIO     : 1:4
+    - STITCH_HEIGHT    : 4
+    - STITCH_COUNT     : 4
+    - CATEGORY         : popcorn
+    - Y_OFFSET         : 0
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : 0
+    ================================================================
+  -->
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- 대표님이 바닥선(y=56) 밀착, 전체 고도 42px(y=14) 및 내부 곡선 유격(y=24)과 4개 가닥 전체 이중 사선 빗금의 2단 수평 일렬 정렬(고도 33.2 / 39.9) 칼대칭 비례를 완벽하게 사수하신 두길긴뜨기 4코 팝콘뜨기 마스터 완본 그래픽 -->
+  <path class="st0" d="M32,14c7.8,0,10.7,2.9,9.8,5.7-2,2.9-17.6,2.9-19.5,0-1-2.9,2-5.7,9.8-5.7Z"/>
+  <path class="st0" d="M22.2,19.7c-11.7,9.5-11.7,28.6,9.8,36.3"/>
+  <path class="st0" d="M12,33.2l4.5,2.2"/>
+  <path class="st0" d="M13,39.9l4.5,2.2"/>
+  <path class="st0" d="M27.1,24c-3.9,11-3.9,24.3,4.9,32"/>
+  <path class="st0" d="M21.8,33.2l4.5,2.2"/>
+  <path class="st0" d="M22.7,39.9l4.5,2.2"/>
+  <path class="st0" d="M36.9,24c3.9,11,3.9,24.3-4.9,32"/>
+  <path class="st0" d="M37.8,33.2l4.5,2.2"/>
+  <path class="st0" d="M36.8,39.9l4.5,2.2"/>
+  <path class="st0" d="M41.8,19.7c11.7,9.5,11.7,28.6-9.8,36.3"/>
+  <path class="st0" d="M47.5,33.2l4.5,2.2"/>
+  <path class="st0" d="M46.5,39.9l4.5,2.2"/>
+</svg>

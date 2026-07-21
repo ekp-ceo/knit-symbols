@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    ================================================================
+    [AI TRAINING METADATA]
+    - KR_NAME_FULL     : 긴뜨기_2코_넣는_이랑뜨기_한_코에서
+    - KR_NAME_ABBR     : 긴2코넣는이랑
+    - JA_NAME_FULL     : 中長編み2目編み入れる畝編み_すじ編み
+    - JA_NAME_ABBR     : 中長2目入れる畝編み
+    - EN_NAME_US_FULL  : half_double_crochet_2_stitch_increase_back_loop_only
+    - EN_NAME_US_ABBR  : hdc_2_st_inc_blo
+    - EN_NAME_UK_FULL  : half_treble_crochet_2_stitch_increase_back_loop_only
+    - EN_NAME_UK_ABBR  : htr_2_st_inc_blo
+    - SYMBOL_SHAPE     : y_shape_mark_with_bottom_flat_rib_bar
+    - SYMBOL_STYLE     : ribbed_increase_vogue_standard
+    - LAYOUT_RULE      : isolated
+    - SYMBOL_DIRECTION : up
+    - SYMBOL_MODIFIER  : flat_rib_bar
+    - STITCH_RATIO     : 1:2
+    - STITCH_HEIGHT    : 2
+    - STITCH_COUNT     : 2
+    - CATEGORY         : rib
+    - Y_OFFSET         : 0
+    - REVERSE_ALLOWED  : N
+    - STITCH_DELTA     : +1
+    ================================================================
+  -->
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <!-- rib 전용 데이터셋 마스터 규격을 완벽히 성립하고, 일러스트레이터 오타로 누락되었던 왼쪽 기둥 라인을 정상 복구하여 오리지널 7번 벡터 패스(총 5개 라인)를 철저히 수호해 마감한 최종 마스터 완본 그래픽 -->
+  <path class="st0" d="M22,14h6.6"/>
+  <path class="st0" d="M25.3,14.9l6.7,31.5"/>
+  <path class="st0" d="M35.4,14h6.6"/>
+  <path class="st0" d="M38.7,14.9l-6.7,31.5"/>
+  <path class="st0" d="M18,56h28"/>
+</svg>
